@@ -1,0 +1,873 @@
+Wk,Date,Time,Day,Winner,Pts_W,Location,Loser,Pts_L,TV,Rank_W,Rank_L,Outcome
+1,Sep 3 2015,10:00 PM,Thu,Arizona,42,Home,Texas-San Antonio,32,,22,,W
+1,Sep 3 2015,7:00 PM,Thu,Ball State,48,Home,Virginia Military Institute,36,,,,W
+1,Sep 3 2015,7:30 PM,Thu,Connecticut,20,Home,Villanova,15,,,,W
+1,Sep 3 2015,9:30 PM,Thu,Duke,37,Away,Tulane,7,,,,L
+1,Sep 3 2015,6:00 PM,Thu,Florida International,15,Away,Central Florida,14,,,,W
+1,Sep 3 2015,10:00 PM,Thu,Fresno State,34,Home,Abilene Christian,13,,,,W
+1,Sep 3 2015,7:30 PM,Thu,Georgia Tech,69,Home,Alcorn State,6,,16,,W
+1,Sep 3 2015,11:59 PM,Thu,Hawaii,28,Home,Colorado,20,,,,W
+1,Sep 3 2015,10:00 PM,Thu,Nevada,31,Home,California-Davis,17,,,,W
+1,Sep 3 2015,9:00 PM,Thu,Ohio,45,Away,Idaho,28,,,,W
+1,Sep 3 2015,7:00 PM,Thu,Oklahoma State,24,Away,Central Michigan,13,,,,W
+1,Sep 3 2015,10:00 PM,Thu,San Jose State,43,Home,New Hampshire,13,,,,W
+1,Sep 3 2015,6:00 PM,Thu,South Carolina,17,Home,North Carolina,13,,,,W
+1,Sep 3 2015,9:00 PM,Thu,Texas Christian,23,Away,Minnesota,17,,2,,W
+1,Sep 3 2015,8:30 PM,Thu,Utah,24,Home,Michigan,17,,,,W
+1,Sep 3 2015,9:00 PM,Thu,Utah State,12,Home,Southern Utah,9,,,,L
+1,Sep 3 2015,7:00 PM,Thu,Wake Forest,41,Home,Elon,3,,,,W
+1,Sep 3 2015,8:00 PM,Thu,Western Kentucky,14,Away,Vanderbilt,12,,,,W
+1,Sep 4 2015,7:00 PM,Fri,Baylor,56,Away,Southern Methodist,21,,4,,W
+1,Sep 4 2015,10:15 PM,Fri,Boise State,16,Home,Washington,13,,23,,W
+1,Sep 4 2015,3:30 PM,Fri,Charlotte,23,Away,Georgia State,20,,,,W
+1,Sep 4 2015,7:00 PM,Fri,Fordham,37,Away,Army,35,,,,W
+1,Sep 4 2015,9:00 PM,Fri,Kent State,,Away,Illinois,,,,,
+1,Sep 4 2015,7:00 PM,Fri,Michigan State,37,Away,Western Michigan,24,,5,,W
+1,Sep 4 2015,8:00 PM,Fri,Oregon State,26,Home,Weber State,7,,,,L
+1,Sep 4 2015,7:00 PM,Fri,Syracuse,47,Home,Rhode Island,0,,,,W
+1,Sep 5 2015,3:30 PM,Sat,Air Force,63,Home,Morgan State,7,,,,L
+1,Sep 5 2015,8:00 PM,Sat,Alabama,35,Home,Wisconsin,17,,3,20,W
+1,Sep 5 2015,3:30 PM,Sat,Appalachian State,49,Home,Howard,0,,,,W
+1,Sep 5 2015,3:30 PM,Sat,Arkansas,48,Home,Texas-El Paso,13,,18,,W
+1,Sep 5 2015,3:30 PM,Sat,Auburn,31,Home,Louisville,24,,6,,W
+1,Sep 5 2015,1:00 PM,Sat,Boston College,24,Home,Maine,3,,,,L
+1,Sep 5 2015,3:30 PM,Sat,Brigham Young,33,Away,Nebraska,28,,,,W
+1,Sep 5 2015,3:30 PM,Sat,Buffalo,51,Home,Albany,14,,,,W
+1,Sep 5 2015,5:00 PM,Sat,California,73,Home,Grambling State,14,,,,W
+1,Sep 5 2015,7:00 PM,Sat,Cincinnati,52,Home,Alabama A&amp;M,10,,,,W
+1,Sep 5 2015,12:30 PM,Sat,Clemson,49,Home,Wofford,10,,12,,W
+1,Sep 5 2015,4:00 PM,Sat,Colorado State,65,Home,Savannah State,13,,,,W
+1,Sep 5 2015,6:00 PM,Sat,East Carolina,28,Home,Towson,20,,,,W
+1,Sep 5 2015,7:30 PM,Sat,Florida,61,Home,New Mexico State,13,,,,W
+1,Sep 5 2015,8:00 PM,Sat,Florida State,59,Home,Texas State,16,,10,,W
+1,Sep 5 2015,12:00 PM,Sat,Georgia,51,Home,Louisiana-Monroe,14,,9,,W
+1,Sep 5 2015,8:00 PM,Sat,Houston,52,Home,Tennessee Tech,24,,,,W
+1,Sep 5 2015,2:00 PM,Sat,Illinois,52,Home,Kent State,3,,,,W
+1,Sep 5 2015,4:00 PM,Sat,Indiana,48,Home,Southern Illinois,47,,,,W
+1,Sep 5 2015,12:00 PM,Sat,Iowa,31,Home,Illinois State,14,,,,W
+1,Sep 5 2015,8:00 PM,Sat,Iowa State,31,Home,Northern Iowa,7,,,,L
+1,Sep 5 2015,7:10 PM,Sat,Kansas State,34,Home,South Dakota,0,,,,W
+1,Sep 5 2015,7:00 PM,Sat,Kentucky,40,Home,Louisiana-Lafayette,33,,,,W
+1,Sep 5 2015,7:00 PM,Sat,Louisiana Tech,62,Home,Southern,15,,,,W
+1,Sep 5 2015,12:00 PM,Sat,Maryland,50,Home,Richmond,21,,,,W
+1,Sep 5 2015,7:30 PM,Sat,McNeese State,,Away,Louisiana State,,,,14,
+1,Sep 5 2015,7:00 PM,Sat,Memphis,63,Home,Missouri State,7,,,,L
+1,Sep 5 2015,6:00 PM,Sat,Miami (FL),45,Home,Bethune-Cookman,0,,,,W
+1,Sep 5 2015,3:30 PM,Sat,Miami (OH),26,Home,Presbyterian,7,,,,L
+1,Sep 5 2015,7:00 PM,Sat,Middle Tennessee State,70,Home,Jackson State,14,,,,W
+1,Sep 5 2015,12:00 PM,Sat,Mississippi,76,Home,Tennessee-Martin,3,,17,,W
+1,Sep 5 2015,10:00 PM,Sat,Mississippi State,34,Away,Southern Mississippi,16,,,,W
+1,Sep 5 2015,4:00 PM,Sat,Missouri,34,Home,Southeast Missouri State,3,,24,,W
+1,Sep 5 2015,12:00 PM,Sat,Navy,48,Home,Colgate,10,,,,W
+1,Sep 5 2015,7:00 PM,Sat,New Mexico,66,Home,Mississippi Valley State,0,,,,W
+1,Sep 5 2015,6:00 PM,Sat,North Carolina State,49,Home,Troy,21,,,,W
+1,Sep 5 2015,4:00 PM,Sat,North Dakota,24,Away,Wyoming,13,,,,W
+1,Sep 5 2015,7:30 PM,Sat,Northern Illinois,38,Home,Nevada-Las Vegas,30,,,,W
+1,Sep 5 2015,12:00 PM,Sat,Northwestern,16,Home,Stanford,6,,,21,L
+1,Sep 5 2015,7:30 PM,Sat,Notre Dame,38,Home,Texas,3,,11,,W
+1,Sep 5 2015,7:00 PM,Sat,Oklahoma,41,Home,Akron,3,,19,,W
+1,Sep 5 2015,3:30 PM,Sat,Old Dominion,38,Away,Eastern Michigan,34,,,,W
+1,Sep 5 2015,8:00 PM,Sat,Oregon,61,Home,Eastern Washington,42,,7,,W
+1,Sep 5 2015,1:00 PM,Sat,Pittsburgh,45,Home,Youngstown State,37,,,,W
+1,Sep 5 2015,2:00 PM,Sat,Portland State,24,Away,Washington State,17,,,,W
+1,Sep 5 2015,3:30 PM,Sat,Rice,56,Home,Wagner,16,,,,W
+1,Sep 5 2015,12:00 PM,Sat,Rutgers,63,Home,Norfolk State,13,,,,W
+1,Sep 5 2015,8:00 PM,Sat,San Diego State,37,Home,San Diego,3,,,,W
+1,Sep 5 2015,6:00 PM,Sat,South Alabama,33,Home,Gardner-Webb,23,,,,W
+1,Sep 5 2015,12:00 PM,Sat,South Dakota State,41,Away,Kansas,38,,,,W
+1,Sep 5 2015,7:00 PM,Sat,South Florida,51,Home,Florida A&amp;M,3,,,,W
+1,Sep 5 2015,11:00 PM,Sat,Southern California,55,Home,Arkansas State,6,,8,,L
+1,Sep 5 2015,3:30 PM,Sat,Temple,27,Home,Penn State,10,,,,W
+1,Sep 5 2015,4:00 PM,Sat,Tennessee,59,Home,Bowling Green State,30,,25,,W
+1,Sep 5 2015,7:00 PM,Sat,Texas A&amp;M,38,Home,Arizona State,17,,,15,W
+1,Sep 5 2015,3:30 PM,Sat,Texas Tech,59,Home,Sam Houston State,45,,,,W
+1,Sep 5 2015,3:30 PM,Sat,Tulsa,47,Home,Florida Atlantic,44,,,,W
+1,Sep 5 2015,3:30 PM,Sat,UCLA,34,Home,Virginia,16,,13,,W
+1,Sep 5 2015,7:30 PM,Sat,West Virginia,44,Home,Georgia Southern,0,,,,W
+1,Sep 6 2015,3:00 PM,Sun,Marshall,41,Home,Purdue,31,,,,W
+1,Sep 7 2015,8:00 PM,Mon,Ohio State,42,Away,Virginia Tech,24,,1,,W
+2,Sep 10 2015,8:00 PM,Thu,Western Kentucky,41,Home,Louisiana Tech,38,FOXS1,,,W
+2,Sep 11 2015,8:00 PM,Fri,Miami (FL),44,Away,Florida Atlantic,20,FOXS1,,,W
+2,Sep 11 2015,9:00 PM,Fri,Utah,24,Home,Utah State,14,ESPN2,24,,W
+2,Sep 12 2015,10:15 PM,Sat,Air Force,37,Home,San Jose State,16,ESPNU,,,W
+2,Sep 12 2015,4:00 PM,Sat,Alabama,37,Home,Middle Tennessee State,10,SECN,2,,W
+2,Sep 12 2015,7:00 PM,Sat,Arizona,44,Away,Nevada,20,CBSSN,22,,W
+2,Sep 12 2015,11:00 PM,Sat,Arizona State,35,Home,Cal Poly,21,PAC12,,,W
+2,Sep 12 2015,12:00 PM,Sat,Auburn,27,Home,Jacksonville State,20,SECN,6,,W
+2,Sep 12 2015,7:30 PM,Sat,Baylor,66,Home,Lamar,31,FSN,4,,W
+2,Sep 12 2015,1:00 PM,Sat,Boston College,76,Home,Howard,0,ESPN3,,,W
+2,Sep 12 2015,12:00 PM,Sat,Bowling Green State,48,Away,Maryland,27,BTN,,,W
+2,Sep 12 2015,10:15 PM,Sat,Brigham Young,35,Home,Boise State,24,ESPN2,,20,W
+2,Sep 12 2015,5:00 PM,Sat,California,35,Home,San Diego State,7,PAC12,,,L
+2,Sep 12 2015,3:00 PM,Sat,Central Michigan,31,Home,Monmouth,10,ESPN3,,,W
+2,Sep 12 2015,12:00 PM,Sat,Charlotte,34,Home,Presbyterian,10,ESPN3,,,W
+2,Sep 12 2015,12:30 PM,Sat,Clemson,41,Home,Appalachian State,10,ESPN3,12,,W
+2,Sep 12 2015,2:00 PM,Sat,Colorado,48,Home,Massachusetts,14,PAC12,,,W
+2,Sep 12 2015,12:00 PM,Sat,Connecticut,22,Home,Army,17,CBSSN,,,W
+2,Sep 12 2015,6:00 PM,Sat,Duke,55,Home,North Carolina Central,0,ESPN3,,,W
+2,Sep 12 2015,4:00 PM,Sat,Eastern Michigan,48,Away,Wyoming,29,,,,W
+2,Sep 12 2015,7:00 PM,Sat,Florida,31,Home,East Carolina,24,ESPN2,,,W
+2,Sep 12 2015,11:30 AM,Sat,Florida State,34,Home,South Florida,14,ESPN,11,,W
+2,Sep 12 2015,3:30 PM,Sat,Georgia,31,Away,Vanderbilt,14,CBS,10,,W
+2,Sep 12 2015,6:00 PM,Sat,Georgia Southern,43,Home,Western Michigan,17,ESPN3,,,W
+2,Sep 12 2015,8:00 PM,Sat,Georgia State,34,Away,New Mexico State,32,ESPN3,,,W
+2,Sep 12 2015,3:30 PM,Sat,Georgia Tech,65,Home,Tulane,10,ESPN3,15,,W
+2,Sep 12 2015,12:00 PM,Sat,Houston,34,Away,Louisville,31,ESPN3,,,W
+2,Sep 12 2015,12:00 PM,Sat,Illinois,44,Home,Western Illinois,0,BTN,,,W
+2,Sep 12 2015,8:00 PM,Sat,Indiana,36,Home,Florida International,22,BTN,,,W
+2,Sep 12 2015,4:45 PM,Sat,Iowa,31,Away,Iowa State,17,FOX,,,W
+2,Sep 12 2015,12:00 PM,Sat,Kansas State,30,Away,Texas-San Antonio,3,FOXS1,,,W
+2,Sep 12 2015,6:00 PM,Sat,Kent State,45,Home,Delaware State,13,ESPN3,,,W
+2,Sep 12 2015,7:30 PM,Sat,Kentucky,26,Away,South Carolina,22,SECN,,,W
+2,Sep 12 2015,9:15 PM,Sat,Louisiana State,21,Away,Mississippi State,19,ESPN,14,25,W
+2,Sep 12 2015,7:00 PM,Sat,Louisiana-Lafayette,44,Home,Northwestern State,17,ESPN3,,,W
+2,Sep 12 2015,7:00 PM,Sat,Louisiana-Monroe,47,Home,Nicholls State,0,ESPN3,,,W
+2,Sep 12 2015,7:00 PM,Sat,Memphis,55,Away,Kansas,23,ESPN3,,,W
+2,Sep 12 2015,12:00 PM,Sat,Michigan,35,Home,Oregon State,7,ABC,,,L
+2,Sep 12 2015,8:00 PM,Sat,Michigan State,31,Home,Oregon,28,ABC,5,7,W
+2,Sep 12 2015,3:30 PM,Sat,Minnesota,23,Away,Colorado State,20,CBSSN,,,W
+2,Sep 12 2015,3:30 PM,Sat,Mississippi,73,Home,Fresno State,21,ESPN2,17,,W
+2,Sep 12 2015,7:00 PM,Sat,Missouri,27,Away,Arkansas State,20,ESPN3,21,,W
+2,Sep 12 2015,8:00 PM,Sat,Nebraska,48,Home,South Alabama,9,BTN,,,L
+2,Sep 12 2015,6:00 PM,Sat,North Carolina,53,Home,North Carolina A&amp;T,14,,,,W
+2,Sep 12 2015,6:00 PM,Sat,North Carolina State,35,Home,Eastern Kentucky,0,ESPN3,,,W
+2,Sep 12 2015,3:30 PM,Sat,Northern Illinois,57,Home,Murray State,26,ESPN3,,,W
+2,Sep 12 2015,4:00 PM,Sat,Northwestern,41,Home,Eastern Illinois,0,ESPNN,,,W
+2,Sep 12 2015,3:30 PM,Sat,Notre Dame,34,Away,Virginia,27,ABC,9,,W
+2,Sep 12 2015,7:00 PM,Sat,Ohio,21,Home,Marshall,10,ESPN3,,,W
+2,Sep 12 2015,3:30 PM,Sat,Ohio State,38,Home,Hawaii,0,BTN,1,,W
+2,Sep 12 2015,6:00 PM,Sat,Oklahoma,31,Away,Tennessee,24,ESPN,19,23,W
+2,Sep 12 2015,7:30 PM,Sat,Oklahoma State,32,Home,Central Arkansas,8,FSN,,,L
+2,Sep 12 2015,7:00 PM,Sat,Old Dominion,24,Home,Norfolk State,10,,,,W
+2,Sep 12 2015,12:00 PM,Sat,Penn State,27,Home,Buffalo,14,ESPN2,,,W
+2,Sep 12 2015,6:00 PM,Sat,Pittsburgh,24,Away,Akron,7,ESPN3,,,L
+2,Sep 12 2015,12:00 PM,Sat,Purdue,38,Home,Indiana State,14,ESPNN,,,W
+2,Sep 12 2015,8:00 PM,Sat,Southern California,59,Home,Idaho,9,PAC12,8,,L
+2,Sep 12 2015,7:00 PM,Sat,Southern Methodist,31,Home,North Texas,13,ESPN3,,,W
+2,Sep 12 2015,3:30 PM,Sat,Southern Mississippi,52,Home,Austin Peay,6,,,,L
+2,Sep 12 2015,10:30 PM,Sat,Stanford,31,Home,Central Florida,7,FOXS1,,,L
+2,Sep 12 2015,12:30 PM,Sat,Syracuse,30,Home,Wake Forest,17,ESPN3,,,W
+2,Sep 12 2015,8:00 PM,Sat,Temple,34,Away,Cincinnati,26,ESPNN,,,W
+2,Sep 12 2015,8:00 PM,Sat,Texas,42,Home,Rice,28,LHN,,,W
+2,Sep 12 2015,7:00 PM,Sat,Texas A&amp;M,56,Home,Ball State,23,ESPNU,16,,W
+2,Sep 12 2015,3:30 PM,Sat,Texas Christian,70,Home,Stephen F. Austin,7,FOXS1,3,,W
+2,Sep 12 2015,7:00 PM,Sat,Texas State,63,Home,Prairie View A&amp;M,24,ESPN3,,,W
+2,Sep 12 2015,3:00 PM,Sat,Texas Tech,69,Home,Texas-El Paso,20,FOX,,,W
+2,Sep 12 2015,4:00 PM,Sat,Toledo,16,Home,Arkansas,12,SECN,,18,W
+2,Sep 12 2015,7:00 PM,Sat,Troy,44,Home,Charleston Southern,16,ESPN3,,,W
+2,Sep 12 2015,8:00 PM,Sat,Tulsa,40,Away,New Mexico,21,ESPN3,,,W
+2,Sep 12 2015,10:30 PM,Sat,UCLA,37,Away,Nevada-Las Vegas,3,CBSSN,13,,W
+2,Sep 12 2015,3:30 PM,Sat,Virginia Tech,42,Home,Furman,3,ESPN3,,,W
+2,Sep 12 2015,2:00 PM,Sat,Washington,49,Home,Sacramento State,0,PAC12,,,W
+2,Sep 12 2015,3:30 PM,Sat,Washington State,37,Away,Rutgers,34,ESPNU,,,W
+2,Sep 12 2015,3:00 PM,Sat,West Virginia,41,Home,Liberty,17,,,,W
+2,Sep 12 2015,12:00 PM,Sat,Wisconsin,58,Home,Miami (OH),0,ESPNU,,,W
+3,Sep 17 2015,7:30 PM,Thu,Clemson,20,Away,Louisville,17,ESPN,11,,W
+3,Sep 18 2015,10:00 PM,Fri,Arizona State,34,Home,New Mexico,10,PAC12,,,W
+3,Sep 18 2015,9:00 PM,Fri,Boise State,52,Home,Idaho State,0,CBSSN,,,W
+3,Sep 18 2015,8:00 PM,Fri,Florida State,14,Away,Boston College,0,ESPN,9,,W
+3,Sep 19 2015,12:00 PM,Sat,Akron,52,Home,Savannah State,9,ESPN3,,,L
+3,Sep 19 2015,11:00 PM,Sat,Arizona,77,Home,Northern Arizona,13,PAC12,20,,W
+3,Sep 19 2015,7:00 PM,Sat,Arkansas State,70,Home,Missouri State,7,ESPN3,,,W
+3,Sep 19 2015,3:00 PM,Sat,Ball State,28,Away,Eastern Michigan,17,ESPN3,,,W
+3,Sep 19 2015,12:00 PM,Sat,Buffalo,33,Away,Florida Atlantic,15,,,,W
+3,Sep 19 2015,7:30 PM,Sat,California,45,Away,Texas,44,FOX,,,W
+3,Sep 19 2015,3:30 PM,Sat,Cincinnati,37,Away,Miami (OH),33,ESPN3,,,W
+3,Sep 19 2015,7:00 PM,Sat,Colorado,27,Home,Colorado State,24,CBSSN,,,W
+3,Sep 19 2015,7:30 PM,Sat,Florida,14,Away,Kentucky,9,SECN,,,L
+3,Sep 19 2015,6:00 PM,Sat,Florida International,39,Home,North Carolina Central,14,,,,W
+3,Sep 19 2015,6:00 PM,Sat,Furman,16,Away,Central Florida,15,ESPN3,,,W
+3,Sep 19 2015,6:00 PM,Sat,Georgia,52,Home,South Carolina,20,ESPN,7,,W
+3,Sep 19 2015,6:00 PM,Sat,Georgia Southern,48,Home,Citadel,13,ESPN3,,,W
+3,Sep 19 2015,11:59 PM,Sat,Hawaii,47,Home,California-Davis,27,,,,W
+3,Sep 19 2015,5:00 PM,Sat,Idaho,41,Home,Wofford,38,ESPN3,,,W
+3,Sep 19 2015,4:00 PM,Sat,Indiana,38,Home,Western Kentucky,35,ESPNN,,,W
+3,Sep 19 2015,8:00 PM,Sat,Iowa,27,Home,Pittsburgh,24,BTN,,,W
+3,Sep 19 2015,3:00 PM,Sat,Kansas State,39,Home,Louisiana Tech,33,FSN,,,W
+3,Sep 19 2015,3:30 PM,Sat,Louisiana State,45,Home,Auburn,21,CBS,13,18,W
+3,Sep 19 2015,3:30 PM,Sat,Marshall,45,Home,Norfolk State,7,,,,L
+3,Sep 19 2015,12:00 PM,Sat,Maryland,35,Home,South Florida,17,ESPN2,,,W
+3,Sep 19 2015,3:00 PM,Sat,Memphis,44,Away,Bowling Green State,41,ESPN3,,,W
+3,Sep 19 2015,3:30 PM,Sat,Miami (FL),36,Home,Nebraska,33,ABC,,,W
+3,Sep 19 2015,12:00 PM,Sat,Michigan,28,Home,Nevada-Las Vegas,7,,,,L
+3,Sep 19 2015,12:00 PM,Sat,Michigan State,35,Home,Air Force,21,ABC,4,,W
+3,Sep 19 2015,7:00 PM,Sat,Middle Tennessee State,73,Home,Charlotte,14,,,,W
+3,Sep 19 2015,12:00 PM,Sat,Minnesota,10,Home,Kent State,7,BTN,,,L
+3,Sep 19 2015,9:15 PM,Sat,Mississippi,43,Away,Alabama,37,ESPN,15,2,W
+3,Sep 19 2015,4:00 PM,Sat,Mississippi State,62,Home,Northwestern State,13,SECN,,,W
+3,Sep 19 2015,12:00 PM,Sat,Missouri,9,Home,Connecticut,6,ESPN,22,,W
+3,Sep 19 2015,3:30 PM,Sat,Navy,45,Home,East Carolina,21,CBSSN,,,W
+3,Sep 19 2015,12:00 PM,Sat,North Carolina,48,Home,Illinois,14,ABC,,,W
+3,Sep 19 2015,7:00 PM,Sat,North Carolina State,38,Away,Old Dominion,14,,,,W
+3,Sep 19 2015,12:30 PM,Sat,Northwestern,19,Away,Duke,10,ESPN3,23,,W
+3,Sep 19 2015,3:30 PM,Sat,Notre Dame,30,Home,Georgia Tech,22,NBC,8,14,W
+3,Sep 19 2015,2:00 PM,Sat,Ohio,35,Home,Southeastern Louisiana,14,ESPN3,,,W
+3,Sep 19 2015,3:30 PM,Sat,Ohio State,20,Home,Northern Illinois,13,ABC,1,,W
+3,Sep 19 2015,12:00 PM,Sat,Oklahoma,52,Home,Tulsa,38,FOXS1,16,,W
+3,Sep 19 2015,3:30 PM,Sat,Oklahoma State,69,Home,Texas-San Antonio,14,FOXS1,25,,W
+3,Sep 19 2015,2:00 PM,Sat,Oregon,61,Home,Georgia State,28,PAC12,12,,W
+3,Sep 19 2015,8:00 PM,Sat,Oregon State,35,Home,San Jose State,21,PAC12,,,W
+3,Sep 19 2015,8:00 PM,Sat,Penn State,28,Home,Rutgers,3,BTN,,,L
+3,Sep 19 2015,2:30 PM,Sat,Rice,38,Away,North Texas,24,,,,W
+3,Sep 19 2015,8:00 PM,Sat,South Alabama,34,Away,San Diego State,27,,,,W
+3,Sep 19 2015,7:00 PM,Sat,Southern Mississippi,56,Away,Texas State,50,ESPN3,,,W
+3,Sep 19 2015,8:00 PM,Sat,Stanford,41,Away,Southern California,31,ABC,,6,W
+3,Sep 19 2015,12:30 PM,Sat,Syracuse,30,Home,Central Michigan,27,ESPN3,,,W
+3,Sep 19 2015,3:00 PM,Sat,Temple,25,Away,Massachusetts,23,ESPN3,,,W
+3,Sep 19 2015,7:00 PM,Sat,Tennessee,55,Home,Western Carolina,10,ESPNU,,,W
+3,Sep 19 2015,12:00 PM,Sat,Texas A&amp;M,44,Home,Nevada,27,SECN,17,,W
+3,Sep 19 2015,8:00 PM,Sat,Texas Christian,56,Home,Southern Methodist,37,FSN,3,,W
+3,Sep 19 2015,7:00 PM,Sat,Texas Tech,35,Away,Arkansas,24,ESPN2,,,W
+3,Sep 19 2015,8:00 PM,Sat,Texas-El Paso,50,Away,New Mexico State,47,ESPN3,,,W
+3,Sep 19 2015,8:00 PM,Sat,Toledo,30,Home,Iowa State,23,ESPNN,,,W
+3,Sep 19 2015,8:00 PM,Sat,Tulane,38,Home,Maine,7,ESPN3,,,L
+3,Sep 19 2015,10:30 PM,Sat,UCLA,24,Home,Brigham Young,23,FOXS1,10,19,W
+3,Sep 19 2015,10:30 PM,Sat,Utah,45,Away,Fresno State,24,CBSSN,21,,W
+3,Sep 19 2015,4:00 PM,Sat,Vanderbilt,47,Home,Austin Peay,7,SECN,,,L
+3,Sep 19 2015,3:30 PM,Sat,Virginia,35,Home,William &amp; Mary,29,ESPN3,,,W
+3,Sep 19 2015,3:30 PM,Sat,Virginia Tech,51,Away,Purdue,24,ESPNU,,,W
+3,Sep 19 2015,12:00 PM,Sat,Wake Forest,17,Away,Army,14,CBSSN,,,W
+3,Sep 19 2015,5:00 PM,Sat,Washington,31,Home,Utah State,17,PAC12,,,W
+3,Sep 19 2015,8:30 PM,Sat,Washington State,31,Home,Wyoming,14,PAC12,,,W
+3,Sep 19 2015,7:00 PM,Sat,Western Michigan,52,Home,Murray State,20,ESPN3,,,W
+3,Sep 19 2015,3:30 PM,Sat,Wisconsin,28,Home,Troy,3,BTN,24,,L
+4,Sep 24 2015,7:30 PM,Thu,Memphis,53,Home,Cincinnati,46,ESPN,,,W
+4,Sep 25 2015,8:00 PM,Fri,Boise State,56,Away,Virginia,14,ESPN,,,W
+4,Sep 25 2015,10:00 PM,Fri,Stanford,42,Away,Oregon State,24,FOXS1,21,,W
+4,Sep 26 2015,7:00 PM,Sat,Akron,35,Away,Louisiana-Lafayette,14,,,,W
+4,Sep 26 2015,4:00 PM,Sat,Alabama,34,Home,Louisiana-Monroe,0,,12,,W
+4,Sep 26 2015,3:30 PM,Sat,Appalachian State,49,Away,Old Dominion,0,,,,W
+4,Sep 26 2015,6:00 PM,Sat,Army,58,Away,Eastern Michigan,36,,,,W
+4,Sep 26 2015,3:00 PM,Sat,Baylor,70,Home,Rice,17,,5,,W
+4,Sep 26 2015,1:00 PM,Sat,Boston College,17,Home,Northern Illinois,14,,,,W
+4,Sep 26 2015,12:00 PM,Sat,Bowling Green State,35,Away,Purdue,28,,,,W
+4,Sep 26 2015,5:00 PM,Sat,California,30,Away,Washington,24,,,,W
+4,Sep 26 2015,1:30 PM,Sat,Colorado,48,Home,Nicholls State,0,,,,W
+4,Sep 26 2015,7:00 PM,Sat,Colorado State,33,Away,Texas-San Antonio,31,CBSSN,,,W
+4,Sep 26 2015,12:00 PM,Sat,Duke,34,Home,Georgia Tech,20,,,20,W
+4,Sep 26 2015,3:30 PM,Sat,East Carolina,35,Home,Virginia Tech,28,,,,W
+4,Sep 26 2015,3:30 PM,Sat,Florida,28,Home,Tennessee,27,,,,W
+4,Sep 26 2015,7:00 PM,Sat,Florida Atlantic,17,Away,Charlotte,7,,,,L
+4,Sep 26 2015,12:00 PM,Sat,Georgia,48,Home,Southern,6,,7,,L
+4,Sep 26 2015,9:00 PM,Sat,Georgia Southern,44,Away,Idaho,20,,,,W
+4,Sep 26 2015,8:00 PM,Sat,Houston,59,Home,Texas State,14,,,,W
+4,Sep 26 2015,4:00 PM,Sat,Illinois,27,Home,Middle Tennessee State,25,,,,W
+4,Sep 26 2015,12:30 PM,Sat,Indiana,31,Away,Wake Forest,24,,,,W
+4,Sep 26 2015,3:30 PM,Sat,Iowa,62,Home,North Texas,16,,,,W
+4,Sep 26 2015,7:00 PM,Sat,James Madison,48,Away,Southern Methodist,45,ESPN3,,,W
+4,Sep 26 2015,7:30 PM,Sat,Kentucky,21,Home,Missouri,13,,,25,W
+4,Sep 26 2015,12:00 PM,Sat,Louisiana State,34,Away,Syracuse,24,,8,,W
+4,Sep 26 2015,2:30 PM,Sat,Louisiana Tech,27,Home,Florida International,17,,,,W
+4,Sep 26 2015,6:00 PM,Sat,Louisville,45,Home,Samford,3,,,,W
+4,Sep 26 2015,3:30 PM,Sat,Marshall,36,Away,Kent State,29,,,,W
+4,Sep 26 2015,12:00 PM,Sat,Michigan,31,Home,Brigham Young,0,,,22,W
+4,Sep 26 2015,12:00 PM,Sat,Michigan State,30,Home,Central Michigan,10,,2,,W
+4,Sep 26 2015,3:30 PM,Sat,Minnesota,27,Home,Ohio,24,,,,W
+4,Sep 26 2015,7:00 PM,Sat,Mississippi,27,Home,Vanderbilt,16,,3,,W
+4,Sep 26 2015,7:30 PM,Sat,Mississippi State,17,Away,Auburn,9,,,,L
+4,Sep 26 2015,12:00 PM,Sat,Navy,28,Away,Connecticut,18,,,,W
+4,Sep 26 2015,12:00 PM,Sat,Nebraska,36,Home,Southern Mississippi,28,,,,W
+4,Sep 26 2015,3:30 PM,Sat,Nevada,24,Away,Buffalo,21,,,,W
+4,Sep 26 2015,9:00 PM,Sat,Nevada-Las Vegas,80,Home,Idaho State,8,,,,W
+4,Sep 26 2015,3:00 PM,Sat,New Mexico,38,Away,Wyoming,28,,,,W
+4,Sep 26 2015,12:30 PM,Sat,North Carolina,41,Home,Delaware,14,,,,W
+4,Sep 26 2015,8:00 PM,Sat,North Carolina State,63,Away,South Alabama,13,,,,W
+4,Sep 26 2015,8:00 PM,Sat,Northwestern,24,Home,Ball State,19,BTN,17,,W
+4,Sep 26 2015,3:30 PM,Sat,Notre Dame,62,Home,Massachusetts,27,NBC,6,,W
+4,Sep 26 2015,3:30 PM,Sat,Ohio State,38,Home,Western Michigan,12,,1,,W
+4,Sep 26 2015,3:30 PM,Sat,Oklahoma State,30,Away,Texas,27,,24,,W
+4,Sep 26 2015,3:30 PM,Sat,Penn State,37,Home,San Diego State,21,,,,W
+4,Sep 26 2015,12:00 PM,Sat,Rutgers,27,Home,Kansas,14,,,,W
+4,Sep 26 2015,10:30 PM,Sat,San Jose State,49,Home,Fresno State,23,CBSSN,,,W
+4,Sep 26 2015,12:00 PM,Sat,South Carolina,31,Home,Central Florida,14,,,,W
+4,Sep 26 2015,10:30 PM,Sat,Southern California,42,Away,Arizona State,14,,19,,W
+4,Sep 26 2015,7:00 PM,Sat,Texas A&amp;M,28,Home,Arkansas,21,,14,,W
+4,Sep 26 2015,4:45 PM,Sat,Texas Christian,55,Away,Texas Tech,52,,3,,W
+4,Sep 26 2015,8:00 PM,Sat,Texas-El Paso,27,Home,Incarnate Word,17,,,,W
+4,Sep 26 2015,7:00 PM,Sat,Toledo,37,Home,Arkansas State,7,,,,L
+4,Sep 26 2015,8:00 PM,Sat,UCLA,56,Away,Arizona,30,,9,16,W
+4,Sep 26 2015,8:30 PM,Sat,Utah,62,Away,Oregon,20,,18,13,W
+4,Sep 26 2015,3:00 PM,Sat,West Virginia,45,Home,Maryland,6,,,,L
+4,Sep 26 2015,3:30 PM,Sat,Western Kentucky,56,Home,Miami (OH),14,CBSSN,,,W
+4,Sep 26 2015,8:00 PM,Sat,Wisconsin,28,Home,Hawaii,0,BTN,22,,W
+5,Oct 1 2015,7:30 PM,Thu,Cincinnati,34,Home,Miami (FL),23,ESPN,,,W
+5,Oct 2 2015,10:15 PM,Fri,Brigham Young,30,Home,Connecticut,13,ESPN2,,,W
+5,Oct 2 2015,7:00 PM,Fri,Memphis,24,Away,South Florida,17,ESPN2,,,W
+5,Oct 2 2015,7:00 PM,Fri,Temple,37,Away,Charlotte,3,CBSSN,,,W
+5,Oct 3 2015,3:30 PM,Sat,Alabama,38,Away,Georgia,10,,13,8,W
+5,Oct 3 2015,3:30 PM,Sat,Appalachian State,31,Home,Wyoming,13,,,,W
+5,Oct 3 2015,7:30 PM,Sat,Arizona State,38,Away,UCLA,23,,,7,W
+5,Oct 3 2015,7:00 PM,Sat,Arkansas,24,Away,Tennessee,20,,,,W
+5,Oct 3 2015,7:00 PM,Sat,Arkansas State,49,Home,Idaho,35,,,,W
+5,Oct 3 2015,4:00 PM,Sat,Auburn,35,Home,San Jose State,21,,,,W
+5,Oct 3 2015,3:30 PM,Sat,Baylor,63,Home,Texas Tech,35,,5,,W
+5,Oct 3 2015,10:15 PM,Sat,Boise State,55,Home,Hawaii,0,,,,W
+5,Oct 3 2015,3:30 PM,Sat,Bowling Green State,28,Away,Buffalo,22,,,,W
+5,Oct 3 2015,4:00 PM,Sat,California,34,Home,Washington State,28,,24,,W
+5,Oct 3 2015,3:00 PM,Sat,Central Michigan,29,Home,Northern Illinois,19,,,,W
+5,Oct 3 2015,8:00 PM,Sat,Clemson,24,Home,Notre Dame,22,,12,6,W
+5,Oct 3 2015,3:30 PM,Sat,Duke,9,Home,Boston College,7,,,,W
+5,Oct 3 2015,4:00 PM,Sat,East Carolina,49,Away,Southern Methodist,23,,,,W
+5,Oct 3 2015,7:00 PM,Sat,Florida,38,Home,Mississippi,10,,25,3,W
+5,Oct 3 2015,3:30 PM,Sat,Florida State,24,Away,Wake Forest,16,,11,,W
+5,Oct 3 2015,7:00 PM,Sat,Georgia Southern,51,Away,Louisiana-Monroe,31,,,,W
+5,Oct 3 2015,12:00 PM,Sat,Houston,38,Away,Tulsa,24,,,,W
+5,Oct 3 2015,4:00 PM,Sat,Illinois,14,Home,Nebraska,13,,,,W
+5,Oct 3 2015,12:00 PM,Sat,Iowa,10,Away,Wisconsin,6,,,19,L
+5,Oct 3 2015,12:00 PM,Sat,Iowa State,38,Home,Kansas,13,,,,W
+5,Oct 3 2015,3:30 PM,Sat,Kent State,20,Home,Miami (OH),14,,,,W
+5,Oct 3 2015,7:30 PM,Sat,Kentucky,34,Home,Eastern Kentucky,27,,,,W
+5,Oct 3 2015,3:30 PM,Sat,Liberty,41,Away,Georgia State,33,,,,W
+5,Oct 3 2015,7:00 PM,Sat,Louisiana State,44,Home,Eastern Michigan,22,,9,,W
+5,Oct 3 2015,7:00 PM,Sat,Louisiana Tech,43,Home,Louisiana-Lafayette,14,,,,W
+5,Oct 3 2015,12:30 PM,Sat,Louisville,20,Away,North Carolina State,13,,,,W
+5,Oct 3 2015,3:30 PM,Sat,Marshall,27,Home,Old Dominion,7,,,,L
+5,Oct 3 2015,3:00 PM,Sat,Massachusetts,24,Home,Florida International,14,,,,W
+5,Oct 3 2015,12:00 PM,Sat,Michigan,28,Away,Maryland,0,BTN,22,,W
+5,Oct 3 2015,12:00 PM,Sat,Michigan State,24,Home,Purdue,21,,2,,W
+5,Oct 3 2015,12:00 PM,Sat,Missouri,24,Home,South Carolina,10,,,,W
+5,Oct 3 2015,3:30 PM,Sat,Navy,33,Home,Air Force,11,CBSSN,,,W
+5,Oct 3 2015,7:00 PM,Sat,Nevada-Las Vegas,23,Away,Nevada,17,,,,W
+5,Oct 3 2015,8:00 PM,Sat,New Mexico,38,Home,New Mexico State,29,,,,W
+5,Oct 3 2015,3:30 PM,Sat,North Carolina,38,Away,Georgia Tech,31,,,,W
+5,Oct 3 2015,12:00 PM,Sat,Northwestern,27,Home,Minnesota,0,,16,,W
+5,Oct 3 2015,2:00 PM,Sat,Ohio,14,Away,Akron,12,,,,W
+5,Oct 3 2015,3:30 PM,Sat,Ohio State,34,Away,Indiana,27,,1,,W
+5,Oct 3 2015,12:00 PM,Sat,Oklahoma,44,Home,West Virginia,24,,15,23,W
+5,Oct 3 2015,4:00 PM,Sat,Oklahoma State,36,Home,Kansas State,34,,20,,W
+5,Oct 3 2015,10:00 PM,Sat,Oregon,41,Away,Colorado,24,,,,W
+5,Oct 3 2015,12:00 PM,Sat,Penn State,20,Home,Army,14,,,,W
+5,Oct 3 2015,12:00 PM,Sat,Pittsburgh,17,Away,Virginia Tech,13,,,,W
+5,Oct 3 2015,10:30 PM,Sat,San Diego State,21,Home,Fresno State,7,CBSSN,,,L
+5,Oct 3 2015,7:00 PM,Sat,South Alabama,24,Away,Troy,18,,,,W
+5,Oct 3 2015,7:00 PM,Sat,Southern Mississippi,49,Home,North Texas,14,,,,W
+5,Oct 3 2015,10:30 PM,Sat,Stanford,55,Home,Arizona,17,,18,,W
+5,Oct 3 2015,7:30 PM,Sat,Texas A&amp;M,30,Home,Mississippi State,17,,14,21,W
+5,Oct 3 2015,12:00 PM,Sat,Texas Christian,50,Home,Texas,7,,4,,L
+5,Oct 3 2015,8:00 PM,Sat,Texas-San Antonio,25,Away,Texas-El Paso,6,,,,L
+5,Oct 3 2015,3:00 PM,Sat,Toledo,24,Away,Ball State,10,,,,W
+5,Oct 3 2015,12:00 PM,Sat,Tulane,45,Home,Central Florida,31,,,,W
+5,Oct 3 2015,7:00 PM,Sat,Utah State,33,Home,Colorado State,18,,,,W
+5,Oct 3 2015,7:00 PM,Sat,Vanderbilt,17,Away,Middle Tennessee State,13,CBSSN,,,W
+5,Oct 3 2015,3:30 PM,Sat,Western Kentucky,49,Away,Rice,10,,,,W
+6,Oct 8 2015,8:00 PM,Thu,Houston,49,Home,Southern Methodist,28,ESPN2,,,W
+6,Oct 8 2015,9:00 PM,Thu,Washington,17,Away,Southern California,12,ESPN,,17,W
+6,Oct 9 2015,7:00 PM,Fri,Marshall,31,Home,Southern Mississippi,10,CBSSN,,,W
+6,Oct 9 2015,8:00 PM,Fri,Virginia Tech,28,Home,North Carolina State,13,ESPN,,,W
+6,Oct 10 2015,10:15 PM,Sat,Air Force,31,Home,Wyoming,17,,,,W
+6,Oct 10 2015,3:00 PM,Sat,Akron,47,Away,Eastern Michigan,21,,,,W
+6,Oct 10 2015,7:00 PM,Sat,Alabama,27,Home,Arkansas,14,,8,,W
+6,Oct 10 2015,3:30 PM,Sat,Appalachian State,37,Away,Georgia State,3,,,,W
+6,Oct 10 2015,4:00 PM,Sat,Arizona,44,Home,Oregon State,7,,,,L
+6,Oct 10 2015,10:00 PM,Sat,Arizona State,48,Home,Colorado,23,,,,W
+6,Oct 10 2015,12:00 PM,Sat,Baylor,66,Away,Kansas,7,,3,,L
+6,Oct 10 2015,7:00 PM,Sat,Boise State,41,Away,Colorado State,10,CBSSN,25,,W
+6,Oct 10 2015,2:00 PM,Sat,Bowling Green State,62,Home,Massachusetts,38,,,,W
+6,Oct 10 2015,7:30 PM,Sat,Brigham Young,45,Home,East Carolina,38,,,,W
+6,Oct 10 2015,3:30 PM,Sat,Clemson,43,Home,Georgia Tech,24,,6,,W
+6,Oct 10 2015,3:45 PM,Sat,Connecticut,40,Away,Central Florida,13,,,,W
+6,Oct 10 2015,12:00 PM,Sat,Duke,44,Away,Army,3,CBSSN,,,W
+6,Oct 10 2015,7:30 PM,Sat,Florida,21,Away,Missouri,3,,11,,L
+6,Oct 10 2015,12:00 PM,Sat,Florida International,52,Home,Texas-El Paso,12,,,,W
+6,Oct 10 2015,8:00 PM,Sat,Florida State,29,Home,Miami (FL),24,,12,,W
+6,Oct 10 2015,12:00 PM,Sat,Iowa,29,Home,Illinois,20,,22,,W
+6,Oct 10 2015,3:30 PM,Sat,Louisiana State,45,Away,South Carolina,24,,7,,W
+6,Oct 10 2015,7:00 PM,Sat,Louisiana Tech,34,Away,Texas-San Antonio,31,,,,W
+6,Oct 10 2015,7:00 PM,Sat,Louisiana-Lafayette,49,Home,Texas State,27,,,,W
+6,Oct 10 2015,3:30 PM,Sat,Michigan,38,Home,Northwestern,0,,18,13,W
+6,Oct 10 2015,8:00 PM,Sat,Michigan State,31,Away,Rutgers,24,BTN,4,,W
+6,Oct 10 2015,3:30 PM,Sat,Minnesota,41,Away,Purdue,13,,,,W
+6,Oct 10 2015,12:00 PM,Sat,Mississippi,52,Home,New Mexico State,3,,14,,W
+6,Oct 10 2015,4:00 PM,Sat,Mississippi State,45,Home,Troy,17,,,,W
+6,Oct 10 2015,7:00 PM,Sat,Nevada,35,Home,New Mexico,17,,,,W
+6,Oct 10 2015,3:30 PM,Sat,Northern Illinois,59,Home,Ball State,41,,,,W
+6,Oct 10 2015,3:30 PM,Sat,Notre Dame,41,Home,Navy,24,NBC,15,,W
+6,Oct 10 2015,2:00 PM,Sat,Ohio,34,Home,Miami (OH),3,,,,W
+6,Oct 10 2015,12:00 PM,Sat,Ohio State,49,Home,Maryland,28,,1,,W
+6,Oct 10 2015,7:00 PM,Sat,Oklahoma State,33,Away,West Virginia,26,,21,,W
+6,Oct 10 2015,12:00 PM,Sat,Penn State,29,Home,Indiana,7,,,,L
+6,Oct 10 2015,12:30 PM,Sat,Pittsburgh,26,Home,Virginia,19,,,,W
+6,Oct 10 2015,5:00 PM,Sat,Portland State,66,Away,North Texas,7,,,,L
+6,Oct 10 2015,2:30 PM,Sat,Rice,27,Away,Florida Atlantic,26,,,,W
+6,Oct 10 2015,11:59 PM,Sat,San Diego State,28,Away,Hawaii,14,,,,W
+6,Oct 10 2015,9:00 PM,Sat,San Jose State,33,Away,Nevada-Las Vegas,27,,,,W
+6,Oct 10 2015,3:30 PM,Sat,South Florida,45,Home,Syracuse,24,,,,W
+6,Oct 10 2015,12:00 PM,Sat,Temple,49,Home,Tulane,10,,,,W
+6,Oct 10 2015,3:30 PM,Sat,Tennessee,38,Home,Georgia,31,,,19,W
+6,Oct 10 2015,12:00 PM,Sat,Texas,24,Home,Oklahoma,17,,,10,W
+6,Oct 10 2015,7:30 PM,Sat,Texas Christian,52,Away,Kansas State,45,,2,,W
+6,Oct 10 2015,3:30 PM,Sat,Texas Tech,66,Home,Iowa State,31,,,,W
+6,Oct 10 2015,3:00 PM,Sat,Toledo,38,Home,Kent State,7,,24,,L
+6,Oct 10 2015,6:00 PM,Sat,Tulsa,34,Home,Louisiana-Monroe,24,,,,W
+6,Oct 10 2015,10:00 PM,Sat,Utah,30,Home,California,24,,5,23,W
+6,Oct 10 2015,10:30 PM,Sat,Utah State,56,Away,Fresno State,14,CBSSN,,,W
+6,Oct 10 2015,3:00 PM,Sat,Wake Forest,3,Away,Boston College,0,,,,W
+6,Oct 10 2015,6:00 PM,Sat,Washington State,45,Away,Oregon,38,,,,W
+6,Oct 10 2015,12:00 PM,Sat,Western Kentucky,58,Home,Middle Tennessee State,28,,,,W
+6,Oct 10 2015,12:00 PM,Sat,Western Michigan,41,Home,Central Michigan,39,,,,W
+6,Oct 10 2015,3:30 PM,Sat,Wisconsin,23,Away,Nebraska,21,,,,W
+7,Oct 13 2015,8:00 PM,Tue,Arkansas State,49,Away,South Alabama,31,ESPN2,,,W
+7,Oct 15 2015,7:00 PM,Thu,Auburn,30,Away,Kentucky,27,ESPN,,,W
+7,Oct 15 2015,10:30 PM,Thu,Stanford,56,Home,UCLA,35,ESPN,15,18,W
+7,Oct 15 2015,7:30 PM,Thu,Western Kentucky,55,Away,North Texas,28,CBSSN,,,W
+7,Oct 16 2015,8:00 PM,Fri,Brigham Young,38,Home,Cincinnati,24,ESPN,,,W
+7,Oct 16 2015,10:30 PM,Fri,Fresno State,31,Home,Nevada-Las Vegas,28,ESPN2,,,W
+7,Oct 16 2015,9:00 PM,Fri,Houston,42,Away,Tulane,7,ESPNU,24,,L
+7,Oct 16 2015,9:00 PM,Fri,Utah State,52,Home,Boise State,26,CBSSN,,21,W
+7,Oct 17 2015,3:30 PM,Sat,Alabama,41,Away,Texas A&amp;M,23,,10,9,W
+7,Oct 17 2015,7:00 PM,Sat,Appalachian State,59,Away,Louisiana-Monroe,14,,,,W
+7,Oct 17 2015,9:00 PM,Sat,Arizona,38,Away,Colorado,31,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Army,21,Home,Bucknell,14,CBSSN,,,W
+7,Oct 17 2015,12:00 PM,Sat,Baylor,62,Home,West Virginia,38,,2,,W
+7,Oct 17 2015,3:00 PM,Sat,Bowling Green State,59,Home,Akron,10,,,,W
+7,Oct 17 2015,1:00 PM,Sat,Central Michigan,51,Home,Buffalo,14,,,,W
+7,Oct 17 2015,7:00 PM,Sat,Clemson,34,Home,Boston College,17,,5,,W
+7,Oct 17 2015,3:30 PM,Sat,Colorado State,38,Home,Air Force,23,CBSSN,,,W
+7,Oct 17 2015,12:00 PM,Sat,East Carolina,30,Home,Tulsa,17,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Florida State,41,Home,Louisville,21,,11,,W
+7,Oct 17 2015,7:30 PM,Sat,Georgia,9,Home,Missouri,6,,,,W
+7,Oct 17 2015,6:00 PM,Sat,Georgia Southern,56,Home,New Mexico State,26,,,,W
+7,Oct 17 2015,3:00 PM,Sat,Georgia State,31,Away,Ball State,19,,,,W
+7,Oct 17 2015,3:30 PM,Sat,Idaho,19,Away,Troy,16,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Iowa,40,Away,Northwestern,10,,17,20,W
+7,Oct 17 2015,3:30 PM,Sat,Kent State,15,Away,Massachusetts,10,,,,W
+7,Oct 17 2015,7:00 PM,Sat,Louisiana State,35,Home,Florida,28,,6,8,W
+7,Oct 17 2015,12:00 PM,Sat,Marshall,33,Away,Florida Atlantic,17,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Memphis,37,Home,Mississippi,24,,,13,W
+7,Oct 17 2015,3:30 PM,Sat,Miami (FL),30,Home,Virginia Tech,20,,,,W
+7,Oct 17 2015,3:30 PM,Sat,Michigan State,27,Away,Michigan,23,,7,12,W
+7,Oct 17 2015,12:00 PM,Sat,Middle Tennessee State,42,Home,Florida International,34,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Mississippi State,45,Home,Louisiana Tech,20,,,,W
+7,Oct 17 2015,3:30 PM,Sat,Nebraska,48,Away,Minnesota,25,,,,W
+7,Oct 17 2015,7:00 PM,Sat,New Mexico,28,Home,Hawaii,27,,,,W
+7,Oct 17 2015,7:00 PM,Sat,North Carolina,50,Home,Wake Forest,14,,,,W
+7,Oct 17 2015,2:30 PM,Sat,Northern Illinois,45,Away,Miami (OH),12,,,,W
+7,Oct 17 2015,7:30 PM,Sat,Notre Dame,41,Home,Southern California,31,NBC,14,,W
+7,Oct 17 2015,8:00 PM,Sat,Ohio State,38,Home,Penn State,10,ABC,1,,W
+7,Oct 17 2015,3:30 PM,Sat,Oklahoma,55,Away,Kansas State,0,,19,,W
+7,Oct 17 2015,3:30 PM,Sat,Old Dominion,37,Home,Charlotte,34,,,,W
+7,Oct 17 2015,10:30 PM,Sat,Oregon,26,Away,Washington,20,,,,W
+7,Oct 17 2015,12:30 PM,Sat,Pittsburgh,31,Away,Georgia Tech,28,,,,W
+7,Oct 17 2015,3:30 PM,Sat,Rutgers,55,Away,Indiana,52,,,,W
+7,Oct 17 2015,10:30 PM,Sat,San Diego State,30,Away,San Jose State,7,,,,L
+7,Oct 17 2015,4:00 PM,Sat,South Carolina,19,Home,Vanderbilt,10,,,,W
+7,Oct 17 2015,12:00 PM,Sat,South Florida,28,Away,Connecticut,20,,,,W
+7,Oct 17 2015,7:00 PM,Sat,Southern Mississippi,32,Home,Texas-San Antonio,10,,,,W
+7,Oct 17 2015,7:30 PM,Sat,Temple,30,Home,Central Florida,16,,,,W
+7,Oct 17 2015,7:00 PM,Sat,Texas Christian,45,Away,Iowa State,21,,3,,W
+7,Oct 17 2015,12:00 PM,Sat,Texas Tech,30,Away,Kansas,20,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Toledo,63,Home,Eastern Michigan,20,,22,,W
+7,Oct 17 2015,10:00 PM,Sat,Utah,34,Home,Arizona State,18,,4,,W
+7,Oct 17 2015,3:30 PM,Sat,Virginia,44,Home,Syracuse,38,,,,W
+7,Oct 17 2015,4:00 PM,Sat,Washington State,52,Home,Oregon State,31,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Western Michigan,49,Away,Ohio,14,,,,W
+7,Oct 17 2015,12:00 PM,Sat,Wisconsin,24,Home,Purdue,7,,,,L
+7,Oct 17 2015,4:00 PM,Sat,Wyoming,28,Home,Nevada,21,,,,W
+8,Oct 20 2015,8:00 PM,Tue,Arkansas State,37,Home,Louisiana-Lafayette,27,ESPN2,,,W
+8,Oct 22 2015,7:30 PM,Thu,Appalachian State,31,Home,Georgia Southern,13,ESPNU,,,W
+8,Oct 22 2015,7:00 PM,Thu,Temple,24,Away,East Carolina,14,ESPN2,22,,W
+8,Oct 22 2015,9:00 PM,Thu,UCLA,40,Home,California,24,ESPN,,20,W
+8,Oct 23 2015,8:00 PM,Fri,Memphis,66,Away,Tulsa,42,ESPN,18,,W
+8,Oct 23 2015,10:30 PM,Fri,San Diego State,48,Home,Utah State,14,ESPN2,,,W
+8,Oct 24 2015,2:00 PM,Sat,Air Force,42,Home,Fresno State,14,,,,W
+8,Oct 24 2015,3:30 PM,Sat,Alabama,19,Home,Tennessee,14,,8,,W
+8,Oct 24 2015,12:00 PM,Sat,Arkansas,54,Home,Auburn,46,,,,W
+8,Oct 24 2015,12:00 PM,Sat,Baylor,45,Home,Iowa State,27,,2,,W
+8,Oct 24 2015,10:15 PM,Sat,Boise State,34,Home,Wyoming,14,,,,W
+8,Oct 24 2015,1:00 PM,Sat,Bowling Green State,48,Away,Kent State,0,,,,W
+8,Oct 24 2015,3:00 PM,Sat,Brigham Young,70,Home,Wagner,6,,,,W
+8,Oct 24 2015,3:30 PM,Sat,Buffalo,41,Home,Ohio,17,,,,W
+8,Oct 24 2015,3:00 PM,Sat,Central Michigan,23,Away,Ball State,21,,,,W
+8,Oct 24 2015,4:30 PM,Sat,Cincinnati,37,Home,Connecticut,13,,,,W
+8,Oct 24 2015,12:00 PM,Sat,Clemson,58,Away,Miami (FL),0,,6,,W
+8,Oct 24 2015,10:30 PM,Sat,Colorado,17,Away,Oregon State,13,,,,W
+8,Oct 24 2015,3:30 PM,Sat,Duke,45,Away,Virginia Tech,43,,23,,W
+8,Oct 24 2015,6:00 PM,Sat,Florida International,41,Home,Old Dominion,12,,,,W
+8,Oct 24 2015,7:00 PM,Sat,Georgia Tech,22,Home,Florida State,16,,,9,W
+8,Oct 24 2015,12:00 PM,Sat,Houston,59,Away,Central Florida,10,,21,,W
+8,Oct 24 2015,5:00 PM,Sat,Idaho,27,Home,Louisiana-Monroe,13,,,,W
+8,Oct 24 2015,7:00 PM,Sat,Louisiana State,48,Home,Western Kentucky,20,,5,,W
+8,Oct 24 2015,3:30 PM,Sat,Louisiana Tech,45,Home,Middle Tennessee State,16,,,,W
+8,Oct 24 2015,12:30 PM,Sat,Louisville,17,Home,Boston College,14,,,,W
+8,Oct 24 2015,3:30 PM,Sat,Marshall,30,Home,North Texas,13,,,,W
+8,Oct 24 2015,3:30 PM,Sat,Michigan State,52,Home,Indiana,26,,7,,W
+8,Oct 24 2015,7:00 PM,Sat,Mississippi,23,Home,Texas A&amp;M,3,,24,15,L
+8,Oct 24 2015,7:30 PM,Sat,Mississippi State,42,Home,Kentucky,16,,,,W
+8,Oct 24 2015,1:00 PM,Sat,Navy,31,Home,Tulane,14,CBSSN,,,W
+8,Oct 24 2015,4:00 PM,Sat,Nevada,30,Home,Hawaii,20,,,,W
+8,Oct 24 2015,3:30 PM,Sat,North Carolina,26,Home,Virginia,13,,,,W
+8,Oct 24 2015,12:00 PM,Sat,North Carolina State,35,Away,Wake Forest,17,,,,W
+8,Oct 24 2015,3:30 PM,Sat,Northern Illinois,49,Home,Eastern Michigan,21,,,,W
+8,Oct 24 2015,12:00 PM,Sat,Northwestern,30,Away,Nebraska,28,,,,W
+8,Oct 24 2015,8:00 PM,Sat,Ohio State,49,Away,Rutgers,7,ABC,1,,L
+8,Oct 24 2015,3:30 PM,Sat,Oklahoma,63,Home,Texas Tech,27,,17,,W
+8,Oct 24 2015,3:30 PM,Sat,Oklahoma State,58,Home,Kansas,10,,14,,W
+8,Oct 24 2015,3:30 PM,Sat,Penn State,31,Home,Maryland,30,,,,W
+8,Oct 24 2015,12:00 PM,Sat,Pittsburgh,23,Away,Syracuse,20,,25,,W
+8,Oct 24 2015,12:00 PM,Sat,Rice,38,Home,Army,31,,,,W
+8,Oct 24 2015,7:00 PM,Sat,San Jose State,31,Home,New Mexico,21,,,,W
+8,Oct 24 2015,4:00 PM,Sat,South Florida,38,Home,Southern Methodist,14,,,,W
+8,Oct 24 2015,7:30 PM,Sat,Southern California,42,Home,Utah,24,,,3,W
+8,Oct 24 2015,12:00 PM,Sat,Southern Mississippi,44,Away,Charlotte,10,,,,W
+8,Oct 24 2015,10:30 PM,Sat,Stanford,31,Home,Washington,14,,10,,W
+8,Oct 24 2015,12:00 PM,Sat,Texas,23,Home,Kansas State,9,,,,L
+8,Oct 24 2015,7:00 PM,Sat,Texas State,36,Home,South Alabama,18,,,,W
+8,Oct 24 2015,7:00 PM,Sat,Texas-El Paso,27,Home,Florida Atlantic,17,,,,W
+8,Oct 24 2015,3:00 PM,Sat,Toledo,51,Away,Massachusetts,35,,19,,W
+8,Oct 24 2015,8:00 PM,Sat,Troy,52,Away,New Mexico State,7,,,,L
+8,Oct 24 2015,4:00 PM,Sat,Vanderbilt,10,Home,Missouri,3,,,,L
+8,Oct 24 2015,4:00 PM,Sat,Washington State,45,Away,Arizona,42,,,,W
+8,Oct 24 2015,2:00 PM,Sat,Western Michigan,35,Home,Miami (OH),13,,,,W
+8,Oct 24 2015,3:30 PM,Sat,Wisconsin,24,Away,Illinois,13,,,,W
+9,Oct 29 2015,7:30 PM,Thu,Buffalo,29,Away,Miami (OH),24,,,,W
+9,Oct 29 2015,7:30 PM,Thu,Georgia Southern,37,Home,Texas State,13,ESPNU,,,W
+9,Oct 29 2015,7:00 PM,Thu,North Carolina,26,Away,Pittsburgh,19,ESPN,,23,W
+9,Oct 29 2015,10:30 PM,Thu,Oregon,61,Away,Arizona State,55,ESPN,,,W
+9,Oct 29 2015,7:30 PM,Thu,Texas Christian,40,Home,West Virginia,10,FOXS1,5,,W
+9,Oct 29 2015,7:30 PM,Thu,Western Michigan,58,Away,Eastern Michigan,28,,,,W
+9,Oct 30 2015,7:00 PM,Fri,Connecticut,31,Home,East Carolina,13,ESPNU,,,W
+9,Oct 30 2015,8:00 PM,Fri,Louisiana Tech,42,Away,Rice,17,FOXS1,,,W
+9,Oct 30 2015,7:02 PM,Fri,Louisville,20,Away,Wake Forest,19,ESPN2,,,W
+9,Oct 30 2015,10:15 PM,Fri,Utah State,58,Home,Wyoming,27,ESPN2,,,W
+9,Oct 31 2015,10:30 PM,Sat,Air Force,58,Away,Hawaii,7,CBSSN,,,L
+9,Oct 31 2015,3:30 PM,Sat,Appalachian State,44,Home,Troy,41,,,,W
+9,Oct 31 2015,4:00 PM,Sat,Arkansas,63,Home,Tennessee-Martin,28,,,,W
+9,Oct 31 2015,7:00 PM,Sat,Arkansas State,48,Home,Georgia State,34,,,,W
+9,Oct 31 2015,1:00 PM,Sat,Ball State,20,Home,Massachusetts,10,,,,W
+9,Oct 31 2015,3:30 PM,Sat,Boise State,55,Away,Nevada-Las Vegas,27,,,,W
+9,Oct 31 2015,2:00 PM,Sat,Central Michigan,14,Away,Akron,6,,,,L
+9,Oct 31 2015,12:00 PM,Sat,Cincinnati,52,Home,Central Florida,7,,,,L
+9,Oct 31 2015,3:30 PM,Sat,Clemson,56,Away,North Carolina State,41,,3,,W
+9,Oct 31 2015,3:30 PM,Sat,Florida,27,Home,Georgia,3,CBS,11,,L
+9,Oct 31 2015,3:30 PM,Sat,Florida Atlantic,31,Home,Florida International,17,,,,W
+9,Oct 31 2015,12:00 PM,Sat,Florida State,45,Home,Syracuse,21,,17,,W
+9,Oct 31 2015,7:00 PM,Sat,Houston,34,Home,Vanderbilt,0,,18,,W
+9,Oct 31 2015,3:30 PM,Sat,Iowa,31,Home,Maryland,15,,10,,W
+9,Oct 31 2015,7:00 PM,Sat,Iowa State,24,Home,Texas,0,,,,W
+9,Oct 31 2015,5:00 PM,Sat,Louisiana-Lafayette,30,Home,Louisiana-Monroe,24,,,,W
+9,Oct 31 2015,3:30 PM,Sat,Marshall,34,Away,Charlotte,10,,,,W
+9,Oct 31 2015,7:00 PM,Sat,Memphis,41,Home,Tulane,13,,16,,W
+9,Oct 31 2015,7:00 PM,Sat,Miami (FL),30,Away,Duke,27,,,22,W
+9,Oct 31 2015,7:00 PM,Sat,Michigan,29,Away,Minnesota,26,ABC,15,,W
+9,Oct 31 2015,12:00 PM,Sat,Mississippi,27,Away,Auburn,19,,19,,W
+9,Oct 31 2015,12:00 PM,Sat,Navy,29,Home,South Florida,17,CBSSN,,,W
+9,Oct 31 2015,8:00 PM,Sat,New Mexico State,55,Home,Idaho,48,,,,W
+9,Oct 31 2015,7:00 PM,Sat,North Texas,30,Home,Texas-San Antonio,23,,,,W
+9,Oct 31 2015,8:00 PM,Sat,Notre Dame,24,Away,Temple,20,,9,21,W
+9,Oct 31 2015,3:30 PM,Sat,Oklahoma,62,Away,Kansas,7,,14,,L
+9,Oct 31 2015,3:30 PM,Sat,Oklahoma State,70,Away,Texas Tech,53,,12,,W
+9,Oct 31 2015,12:00 PM,Sat,Penn State,39,Home,Illinois,0,,,,W
+9,Oct 31 2015,12:00 PM,Sat,Purdue,55,Home,Nebraska,45,,,,W
+9,Oct 31 2015,3:30 PM,Sat,San Diego State,41,Away,Colorado State,17,CBSSN,,,W
+9,Oct 31 2015,3:00 PM,Sat,Southern California,27,Away,California,21,,,,W
+9,Oct 31 2015,2:30 PM,Sat,Southern Mississippi,34,Home,Texas-El Paso,13,,,,W
+9,Oct 31 2015,10:30 PM,Sat,Stanford,30,Away,Washington State,28,,8,,W
+9,Oct 31 2015,7:30 PM,Sat,Tennessee,52,Away,Kentucky,21,,,,W
+9,Oct 31 2015,12:00 PM,Sat,Texas A&amp;M,35,Home,South Carolina,28,,,,W
+9,Oct 31 2015,4:00 PM,Sat,Tulsa,40,Away,Southern Methodist,31,,,,W
+9,Oct 31 2015,3:00 PM,Sat,UCLA,35,Home,Colorado,31,,24,,W
+9,Oct 31 2015,7:00 PM,Sat,Utah,27,Home,Oregon State,12,,13,,W
+9,Oct 31 2015,3:00 PM,Sat,Virginia,27,Home,Georgia Tech,21,,,,W
+9,Oct 31 2015,12:30 PM,Sat,Virginia Tech,26,Away,Boston College,10,,,,W
+9,Oct 31 2015,11:00 PM,Sat,Washington,49,Home,Arizona,3,,,,W
+9,Oct 31 2015,12:00 PM,Sat,Western Kentucky,55,Away,Old Dominion,30,,,,W
+9,Oct 31 2015,12:00 PM,Sat,Wisconsin,48,Home,Rutgers,10,,,,W
+10,Nov 3 2015,8:00 PM,Tue,Northern Illinois,32,Away,Toledo,27,ESPN2,,20,W
+10,Nov 4 2015,8:00 PM,Wed,Bowling Green State,62,Home,Ohio,24,ESPN2,,,W
+10,Nov 5 2015,7:30 PM,Thu,Arkansas State,40,Away,Appalachian State,27,ESPNU,,,W
+10,Nov 5 2015,7:30 PM,Thu,Baylor,31,Away,Kansas State,24,FOXS1,2,,W
+10,Nov 5 2015,7:00 PM,Thu,Buffalo,18,Away,Kent State,17,,,,W
+10,Nov 5 2015,9:00 PM,Thu,Mississippi State,31,Away,Missouri,13,ESPN,24,,W
+10,Nov 5 2015,10:30 PM,Thu,Nevada,30,Away,Fresno State,16,ESPN2,,,W
+10,Nov 5 2015,7:30 PM,Thu,Western Michigan,54,Home,Ball State,7,,,,L
+10,Nov 6 2015,11:30 PM,Fri,Brigham Young,17,Away,San Jose State,16,CBSSN,,,W
+10,Nov 6 2015,8:00 PM,Fri,Temple,60,Away,Southern Methodist,40,ESPN2,23,,W
+10,Nov 6 2015,8:00 PM,Fri,Texas-El Paso,24,Home,Rice,21,CBSSN,,,W
+10,Nov 7 2015,3:30 PM,Sat,Air Force,20,Home,Army,3,,,,L
+10,Nov 7 2015,12:00 PM,Sat,Akron,17,Away,Massachusetts,13,,,,W
+10,Nov 7 2015,8:00 PM,Sat,Alabama,30,Home,Louisiana State,16,,7,4,W
+10,Nov 7 2015,3:30 PM,Sat,Arkansas,53,Away,Mississippi,52,,,19,W
+10,Nov 7 2015,7:30 PM,Sat,Auburn,26,Away,Texas A&amp;M,10,,,25,W
+10,Nov 7 2015,3:30 PM,Sat,Clemson,23,Home,Florida State,13,,3,17,W
+10,Nov 7 2015,3:00 PM,Sat,Colorado State,26,Away,Wyoming,7,,,,L
+10,Nov 7 2015,4:00 PM,Sat,Connecticut,7,Away,Tulane,3,,,,W
+10,Nov 7 2015,12:00 PM,Sat,Florida,9,Home,Vanderbilt,7,,11,,W
+10,Nov 7 2015,12:00 PM,Sat,Florida International,48,Home,Charlotte,31,,,,W
+10,Nov 7 2015,12:00 PM,Sat,Georgia,27,Home,Kentucky,3,,,,L
+10,Nov 7 2015,3:30 PM,Sat,Houston,33,Home,Cincinnati,30,,18,,W
+10,Nov 7 2015,12:00 PM,Sat,Illinois,48,Away,Purdue,14,,,,W
+10,Nov 7 2015,3:30 PM,Sat,Iowa,35,Away,Indiana,27,,10,,W
+10,Nov 7 2015,3:30 PM,Sat,Louisiana Tech,56,Home,North Texas,13,,,,W
+10,Nov 7 2015,2:00 PM,Sat,Louisiana-Lafayette,23,Away,Georgia State,21,,,,W
+10,Nov 7 2015,12:30 PM,Sat,Louisville,41,Home,Syracuse,17,,,,W
+10,Nov 7 2015,3:00 PM,Sat,Miami (FL),27,Home,Virginia,21,,,,W
+10,Nov 7 2015,2:30 PM,Sat,Miami (OH),28,Home,Eastern Michigan,13,,,,W
+10,Nov 7 2015,3:30 PM,Sat,Michigan,49,Home,Rutgers,16,,16,,W
+10,Nov 7 2015,3:30 PM,Sat,Middle Tennessee State,27,Home,Marshall,24,,,,W
+10,Nov 7 2015,7:00 PM,Sat,Navy,45,Away,Memphis,20,,,15,W
+10,Nov 7 2015,7:00 PM,Sat,Nebraska,39,Home,Michigan State,38,,,6,W
+10,Nov 7 2015,6:00 PM,Sat,Nevada-Las Vegas,41,Home,Hawaii,21,,,,W
+10,Nov 7 2015,3:30 PM,Sat,New Mexico,14,Home,Utah State,13,CBSSN,,,W
+10,Nov 7 2015,4:00 PM,Sat,New Mexico State,31,Away,Texas State,21,,,,W
+10,Nov 7 2015,12:00 PM,Sat,North Carolina,66,Home,Duke,31,,21,,W
+10,Nov 7 2015,12:30 PM,Sat,North Carolina State,24,Away,Boston College,8,,,,L
+10,Nov 7 2015,12:00 PM,Sat,Northwestern,23,Home,Penn State,21,,,,W
+10,Nov 7 2015,12:00 PM,Sat,Notre Dame,42,Away,Pittsburgh,30,,8,,W
+10,Nov 7 2015,8:00 PM,Sat,Ohio State,28,Home,Minnesota,14,,1,,W
+10,Nov 7 2015,7:00 PM,Sat,Oklahoma,52,Home,Iowa State,16,,14,,W
+10,Nov 7 2015,3:30 PM,Sat,Oklahoma State,49,Home,Texas Christian,29,,12,5,W
+10,Nov 7 2015,7:00 PM,Sat,Old Dominion,36,Away,Texas-San Antonio,31,,,,W
+10,Nov 7 2015,10:30 PM,Sat,Oregon,44,Home,California,28,,,,W
+10,Nov 7 2015,3:00 PM,Sat,South Alabama,52,Home,Idaho,45,,,,W
+10,Nov 7 2015,7:30 PM,Sat,South Florida,22,Away,East Carolina,17,,,,W
+10,Nov 7 2015,10:30 PM,Sat,Southern California,38,Home,Arizona,30,,,,W
+10,Nov 7 2015,1:00 PM,Sat,Stanford,42,Away,Colorado,10,,9,,W
+10,Nov 7 2015,4:00 PM,Sat,Tennessee,27,Home,South Carolina,24,,,,W
+10,Nov 7 2015,8:00 PM,Sat,Texas,59,Home,Kansas,20,,,,W
+10,Nov 7 2015,3:30 PM,Sat,Troy,51,Home,Louisiana-Monroe,14,,,,W
+10,Nov 7 2015,12:00 PM,Sat,Tulsa,45,Home,Central Florida,30,,,,W
+10,Nov 7 2015,4:30 PM,Sat,UCLA,41,Away,Oregon State,0,,22,,W
+10,Nov 7 2015,7:30 PM,Sat,Utah,34,Away,Washington,23,,13,,W
+10,Nov 7 2015,3:30 PM,Sat,Washington State,38,Home,Arizona State,24,,,,W
+10,Nov 7 2015,12:00 PM,Sat,West Virginia,31,Home,Texas Tech,26,,,,W
+10,Nov 7 2015,12:00 PM,Sat,Western Kentucky,35,Home,Florida Atlantic,19,,,,W
+10,Nov 7 2015,3:30 PM,Sat,Wisconsin,31,Away,Maryland,24,,,,W
+11,Nov 10 2015,8:00 PM,Tue,Ohio,27,Home,Kent State,0,ESPN2,,,W
+11,Nov 10 2015,8:00 PM,Tue,Toledo,28,Away,Central Michigan,23,ESPN2,,,W
+11,Nov 11 2015,8:00 PM,Wed,Bowling Green State,41,Away,Western Michigan,27,ESPN2,,,W
+11,Nov 11 2015,8:00 PM,Wed,Northern Illinois,41,Away,Buffalo,30,ESPN2,,,W
+11,Nov 12 2015,7:30 PM,Thu,South Alabama,32,Home,Louisiana-Lafayette,25,ESPNU,,,W
+11,Nov 12 2015,7:30 PM,Thu,Virginia Tech,23,Away,Georgia Tech,21,ESPN,,,W
+11,Nov 13 2015,9:00 PM,Fri,Southern California,27,Away,Colorado,24,ESPN2,,,W
+11,Nov 14 2015,2:00 PM,Sat,Air Force,35,Home,Utah State,28,,,,W
+11,Nov 14 2015,12:00 PM,Sat,Akron,37,Away,Miami (OH),28,,,,W
+11,Nov 14 2015,3:30 PM,Sat,Alabama,31,Away,Mississippi State,6,,3,20,L
+11,Nov 14 2015,5:00 PM,Sat,Appalachian State,47,Away,Idaho,20,,,,W
+11,Nov 14 2015,10:00 PM,Sat,Arizona,37,Home,Utah,30,,,10,W
+11,Nov 14 2015,3:00 PM,Sat,Arizona State,27,Home,Washington,17,,,,W
+11,Nov 14 2015,7:15 PM,Sat,Arkansas,31,Away,Louisiana State,14,,,9,W
+11,Nov 14 2015,3:00 PM,Sat,Arkansas State,59,Away,Louisiana-Monroe,21,,,,W
+11,Nov 14 2015,10:30 PM,Sat,California,54,Home,Oregon State,24,,,,W
+11,Nov 14 2015,7:30 PM,Sat,Cincinnati,49,Home,Tulsa,38,,,,W
+11,Nov 14 2015,3:30 PM,Sat,Clemson,37,Away,Syracuse,27,,1,,W
+11,Nov 14 2015,7:00 PM,Sat,Colorado State,49,Home,Nevada-Las Vegas,35,,,,W
+11,Nov 14 2015,12:00 PM,Sat,Florida,24,Away,South Carolina,14,,11,,W
+11,Nov 14 2015,12:30 PM,Sat,Florida State,34,Home,North Carolina State,17,,19,,W
+11,Nov 14 2015,11:00 PM,Sat,Fresno State,42,Away,Hawaii,14,,,,W
+11,Nov 14 2015,12:00 PM,Sat,Georgia,20,Away,Auburn,13,,,,W
+11,Nov 14 2015,3:30 PM,Sat,Georgia Southern,45,Away,Troy,10,,,,W
+11,Nov 14 2015,4:00 PM,Sat,Georgia State,41,Away,Texas State,19,,,,W
+11,Nov 14 2015,7:00 PM,Sat,Houston,35,Home,Memphis,34,,16,25,W
+11,Nov 14 2015,8:00 PM,Sat,Iowa,40,Home,Minnesota,35,BTN,8,,W
+11,Nov 14 2015,12:30 PM,Sat,Louisville,38,Home,Virginia,31,,,,W
+11,Nov 14 2015,3:30 PM,Sat,Marshall,52,Home,Florida International,0,,,,W
+11,Nov 14 2015,3:00 PM,Sat,Massachusetts,28,Away,Eastern Michigan,17,,,,W
+11,Nov 14 2015,3:30 PM,Sat,Michigan,48,Away,Indiana,41,,15,,W
+11,Nov 14 2015,12:00 PM,Sat,Michigan State,24,Home,Maryland,7,,14,,L
+11,Nov 14 2015,12:00 PM,Sat,Middle Tennessee State,24,Away,Florida Atlantic,17,,,,W
+11,Nov 14 2015,7:30 PM,Sat,Missouri,20,Home,Brigham Young,16,,,,W
+11,Nov 14 2015,3:30 PM,Sat,Navy,55,Home,Southern Methodist,14,CBSSN,22,,W
+11,Nov 14 2015,3:30 PM,Sat,Nebraska,31,Away,Rutgers,14,,,,W
+11,Nov 14 2015,4:00 PM,Sat,Nevada,37,Home,San Jose State,34,,,,W
+11,Nov 14 2015,10:15 PM,Sat,New Mexico,31,Away,Boise State,24,,,,W
+11,Nov 14 2015,3:30 PM,Sat,North Carolina,59,Home,Miami (FL),21,,17,,W
+11,Nov 14 2015,12:00 PM,Sat,Northwestern,21,Home,Purdue,14,,24,,W
+11,Nov 14 2015,3:30 PM,Sat,Notre Dame,28,Home,Wake Forest,7,NBC,6,,L
+11,Nov 14 2015,12:00 PM,Sat,Ohio State,28,Away,Illinois,3,,2,,L
+11,Nov 14 2015,8:00 PM,Sat,Oklahoma,44,Away,Baylor,34,,12,4,W
+11,Nov 14 2015,3:30 PM,Sat,Oklahoma State,35,Away,Iowa State,31,,5,,W
+11,Nov 14 2015,12:00 PM,Sat,Old Dominion,31,Home,Texas-El Paso,21,,,,W
+11,Nov 14 2015,7:30 PM,Sat,Oregon,38,Away,Stanford,36,,,7,W
+11,Nov 14 2015,12:00 PM,Sat,Pittsburgh,31,Away,Duke,13,,,,W
+11,Nov 14 2015,10:30 PM,Sat,San Diego State,38,Home,Wyoming,3,CBSSN,,,W
+11,Nov 14 2015,7:00 PM,Sat,South Florida,44,Home,Temple,23,,,21,W
+11,Nov 14 2015,3:30 PM,Sat,Southern Mississippi,65,Away,Rice,10,,,,W
+11,Nov 14 2015,12:00 PM,Sat,Tennessee,24,Home,North Texas,0,,,,W
+11,Nov 14 2015,7:00 PM,Sat,Texas A&amp;M,41,Home,Western Carolina,17,,,,W
+11,Nov 14 2015,12:00 PM,Sat,Texas Christian,23,Home,Kansas,17,,13,,W
+11,Nov 14 2015,3:30 PM,Sat,Texas Tech,59,Home,Kansas State,44,,,,W
+11,Nov 14 2015,2:00 PM,Sat,Texas-San Antonio,30,Away,Charlotte,27,,,,W
+11,Nov 14 2015,12:00 PM,Sat,Tulane,34,Away,Army,31,CBSSN,,,W
+11,Nov 14 2015,4:00 PM,Sat,Vanderbilt,21,Home,Kentucky,17,,,,W
+11,Nov 14 2015,10:45 PM,Sat,Washington State,31,Away,UCLA,27,,,18,W
+11,Nov 14 2015,12:00 PM,Sat,West Virginia,38,Home,Texas,20,,,,W
+12,Nov 17 2015,7:00 PM,Tue,Ohio,48,Home,Ball State,31,,,,W
+12,Nov 17 2015,6:00 PM,Tue,Toledo,44,Away,Bowling Green State,28,,,,W
+12,Nov 18 2015,8:00 PM,Wed,Central Michigan,27,Away,Kent State,14,ESPN2,,,W
+12,Nov 18 2015,8:00 PM,Wed,Northern Illinois,27,Home,Western Michigan,19,ESPN2,,,W
+12,Nov 19 2015,7:30 PM,Thu,East Carolina,44,Away,Central Florida,7,ESPN,,,L
+12,Nov 19 2015,9:30 PM,Thu,Texas State,16,Home,Louisiana-Monroe,3,ESPNU,,,L
+12,Nov 20 2015,9:30 PM,Fri,Air Force,37,Away,Boise State,30,ESPN2,,,W
+12,Nov 20 2015,8:00 PM,Fri,South Florida,65,Home,Cincinnati,27,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Akron,42,Home,Buffalo,21,,,,W
+12,Nov 21 2015,4:00 PM,Sat,Alabama,56,Home,Charleston Southern,6,,3,,L
+12,Nov 21 2015,3:30 PM,Sat,Arizona State,52,Home,Arizona,37,,,,W
+12,Nov 21 2015,4:00 PM,Sat,Auburn,56,Home,Idaho,34,,,,W
+12,Nov 21 2015,7:30 PM,Sat,Baylor,45,Away,Oklahoma State,35,,10,4,W
+12,Nov 21 2015,3:00 PM,Sat,Brigham Young,52,Home,Fresno State,10,,,,W
+12,Nov 21 2015,12:00 PM,Sat,Citadel,23,Away,South Carolina,22,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Clemson,33,Home,Wake Forest,13,,1,,W
+12,Nov 21 2015,5:30 PM,Sat,Colorado State,28,Away,New Mexico,21,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Connecticut,20,Home,Houston,17,,,13,W
+12,Nov 21 2015,12:00 PM,Sat,Florida,20,Home,Florida Atlantic,14,,8,,W
+12,Nov 21 2015,3:00 PM,Sat,Florida State,52,Home,Chattanooga,13,,16,,W
+12,Nov 21 2015,7:00 PM,Sat,Georgia,23,Home,Georgia Southern,17,,,,W
+12,Nov 21 2015,2:00 PM,Sat,Georgia State,24,Home,South Alabama,10,,,,W
+12,Nov 21 2015,12:00 PM,Sat,Indiana,47,Away,Maryland,28,,,,W
+12,Nov 21 2015,12:00 PM,Sat,Iowa,40,Home,Purdue,20,,6,,W
+12,Nov 21 2015,12:00 PM,Sat,Kansas State,38,Home,Iowa State,35,,,,W
+12,Nov 21 2015,7:30 PM,Sat,Kentucky,58,Home,Charlotte,10,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Louisiana Tech,17,Away,Texas-El Paso,15,,,,W
+12,Nov 21 2015,12:30 PM,Sat,Miami (FL),38,Home,Georgia Tech,21,,,,W
+12,Nov 21 2015,1:00 PM,Sat,Miami (OH),20,Away,Massachusetts,13,,,,W
+12,Nov 21 2015,12:00 PM,Sat,Michigan,28,Away,Penn State,16,,14,,W
+12,Nov 21 2015,3:30 PM,Sat,Michigan State,17,Away,Ohio State,14,,9,2,W
+12,Nov 21 2015,12:00 PM,Sat,Middle Tennessee State,41,Home,North Texas,7,,,,L
+12,Nov 21 2015,12:00 PM,Sat,Minnesota,32,Home,Illinois,23,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Mississippi,38,Home,Louisiana State,17,,25,17,W
+12,Nov 21 2015,7:00 PM,Sat,Mississippi State,51,Away,Arkansas,50,,,,W
+12,Nov 21 2015,7:00 PM,Sat,Navy,44,Away,Tulsa,21,,19,,W
+12,Nov 21 2015,5:00 PM,Sat,New Mexico State,37,Away,Louisiana-Lafayette,34,,,,W
+12,Nov 21 2015,12:00 PM,Sat,North Carolina,30,Away,Virginia Tech,27,,12,,W
+12,Nov 21 2015,12:30 PM,Sat,North Carolina State,42,Home,Syracuse,29,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Northwestern,13,Away,Wisconsin,7,,20,21,L
+12,Nov 21 2015,7:30 PM,Sat,Notre Dame,19,Home,Boston College,16,NBC,5,,W
+12,Nov 21 2015,8:00 PM,Sat,Oklahoma,30,Home,Texas Christian,29,,7,11,W
+12,Nov 21 2015,3:30 PM,Sat,Oregon,48,Home,Southern California,28,,23,22,W
+12,Nov 21 2015,3:45 PM,Sat,Pittsburgh,45,Home,Louisville,34,,,,W
+12,Nov 21 2015,12:00 PM,Sat,Rutgers,31,Away,Army,21,CBSSN,,,W
+12,Nov 21 2015,10:30 PM,Sat,San Diego State,52,Away,Nevada-Las Vegas,14,CBSSN,,,W
+12,Nov 21 2015,11:00 PM,Sat,San Jose State,42,Away,Hawaii,23,,,,W
+12,Nov 21 2015,8:00 PM,Sat,Southern Methodist,49,Home,Tulane,21,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Southern Mississippi,56,Home,Old Dominion,31,,,,W
+12,Nov 21 2015,10:30 PM,Sat,Stanford,35,Home,California,22,,15,,W
+12,Nov 21 2015,12:00 PM,Sat,Temple,31,Home,Memphis,12,,,,W
+12,Nov 21 2015,7:15 PM,Sat,Tennessee,19,Away,Missouri,8,,,,L
+12,Nov 21 2015,7:30 PM,Sat,Texas A&amp;M,25,Away,Vanderbilt,0,,,,W
+12,Nov 21 2015,7:00 PM,Sat,Texas-San Antonio,34,Home,Rice,24,,,,W
+12,Nov 21 2015,3:30 PM,Sat,UCLA,17,Away,Utah,9,,,18,L
+12,Nov 21 2015,3:30 PM,Sat,Utah State,31,Home,Nevada,27,,,,W
+12,Nov 21 2015,3:30 PM,Sat,Virginia,42,Home,Duke,34,,,,W
+12,Nov 21 2015,6:00 PM,Sat,Washington,52,Away,Oregon State,7,,,,L
+12,Nov 21 2015,10:45 PM,Sat,Washington State,27,Home,Colorado,3,,24,,L
+12,Nov 21 2015,12:00 PM,Sat,West Virginia,49,Away,Kansas,0,,,,W
+12,Nov 21 2015,2:30 PM,Sat,Western Kentucky,63,Away,Florida International,7,,,,L
+13,Nov 24 2015,7:00 PM,Tue,Bowling Green State,48,Away,Ball State,10,ESPNU,,,W
+13,Nov 24 2015,7:30 PM,Tue,Ohio,26,Away,Northern Illinois,21,ESPNU,,,W
+13,Nov 26 2015,7:30 PM,Thu,Texas Tech,48,Away,Texas,45,FOXS1,,,W
+13,Nov 27 2015,12:00 PM,Fri,Akron,20,Home,Kent State,0,,,,W
+13,Nov 27 2015,2:30 PM,Fri,Arkansas,28,Home,Missouri,3,CBS,,,L
+13,Nov 27 2015,3:30 PM,Fri,Boise State,40,Away,San Jose State,23,CBSSN,,,W
+13,Nov 27 2015,1:00 PM,Fri,Central Michigan,35,Home,Eastern Michigan,28,,,,W
+13,Nov 27 2015,2:00 PM,Fri,Georgia State,31,Home,Troy,21,,,,W
+13,Nov 27 2015,12:00 PM,Fri,Houston,52,Home,Navy,31,,21,16,W
+13,Nov 27 2015,3:30 PM,Fri,Iowa,28,Away,Nebraska,20,,3,,W
+13,Nov 27 2015,4:30 PM,Fri,Massachusetts,31,Away,Buffalo,26,,,,W
+13,Nov 27 2015,12:00 PM,Fri,Miami (FL),29,Away,Pittsburgh,24,,,,W
+13,Nov 27 2015,4:00 PM,Fri,Oregon,52,Home,Oregon State,42,,18,,W
+13,Nov 27 2015,,Fri,South Florida,44,Away,Central Florida,3,,,,W
+13,Nov 27 2015,7:30 PM,Fri,Texas Christian,28,Home,Baylor,21,ESPN,15,7,W
+13,Nov 27 2015,8:00 PM,Fri,Tulsa,45,Away,Tulane,34,,,,W
+13,Nov 27 2015,3:30 PM,Fri,Washington,45,Home,Washington State,10,,,20,W
+13,Nov 27 2015,12:00 PM,Fri,Western Kentucky,49,Home,Marshall,28,FOXS1,,,W
+13,Nov 27 2015,12:00 PM,Fri,Western Michigan,35,Away,Toledo,30,,,24,W
+13,Nov 28 2015,3:30 PM,Sat,Alabama,29,Away,Auburn,13,,2,,W
+13,Nov 28 2015,2:00 PM,Sat,Appalachian State,28,Home,Louisiana-Lafayette,7,,,,L
+13,Nov 28 2015,4:00 PM,Sat,Arkansas State,52,Away,New Mexico State,28,,,,W
+13,Nov 28 2015,3:30 PM,Sat,Brigham Young,51,Away,Utah State,28,CBSSN,,,W
+13,Nov 28 2015,10:00 PM,Sat,California,48,Home,Arizona State,46,,,,W
+13,Nov 28 2015,12:00 PM,Sat,Cincinnati,19,Away,East Carolina,16,,,,W
+13,Nov 28 2015,12:00 PM,Sat,Clemson,37,Away,South Carolina,32,,1,,W
+13,Nov 28 2015,9:00 PM,Sat,Colorado State,34,Away,Fresno State,31,CBSSN,,,W
+13,Nov 28 2015,12:30 PM,Sat,Duke,27,Away,Wake Forest,21,,,,W
+13,Nov 28 2015,12:00 PM,Sat,Florida Atlantic,33,Away,Old Dominion,31,,,,W
+13,Nov 28 2015,7:30 PM,Sat,Florida State,27,Away,Florida,2,,14,10,W
+13,Nov 28 2015,12:00 PM,Sat,Georgia,13,Away,Georgia Tech,7,,,,L
+13,Nov 28 2015,2:00 PM,Sat,Georgia Southern,55,Home,South Alabama,17,,,,W
+13,Nov 28 2015,11:00 PM,Sat,Hawaii,28,Home,Louisiana-Monroe,26,,,,W
+13,Nov 28 2015,5:00 PM,Sat,Idaho,38,Home,Texas State,31,,,,W
+13,Nov 28 2015,12:00 PM,Sat,Indiana,54,Away,Purdue,36,,,,W
+13,Nov 28 2015,4:00 PM,Sat,Kansas State,45,Away,Kansas,14,,,,W
+13,Nov 28 2015,7:30 PM,Sat,Louisiana State,19,Home,Texas A&amp;M,7,,,,L
+13,Nov 28 2015,12:00 PM,Sat,Louisville,38,Away,Kentucky,24,,,,W
+13,Nov 28 2015,12:00 PM,Sat,Maryland,46,Away,Rutgers,41,,,,W
+13,Nov 28 2015,12:00 PM,Sat,Memphis,63,Home,Southern Methodist,0,,,,W
+13,Nov 28 2015,3:30 PM,Sat,Michigan State,55,Home,Penn State,16,,6,,W
+13,Nov 28 2015,2:30 PM,Sat,Middle Tennessee State,42,Away,Texas-San Antonio,7,,,,L
+13,Nov 28 2015,7:15 PM,Sat,Mississippi,38,Away,Mississippi State,27,,19,23,W
+13,Nov 28 2015,10:15 PM,Sat,New Mexico,47,Home,Air Force,35,,,,W
+13,Nov 28 2015,3:30 PM,Sat,North Carolina,45,Away,North Carolina State,34,,11,,W
+13,Nov 28 2015,3:30 PM,Sat,Northwestern,24,Home,Illinois,14,,17,,W
+13,Nov 28 2015,12:00 PM,Sat,Ohio State,42,Away,Michigan,13,,8,12,W
+13,Nov 28 2015,8:00 PM,Sat,Oklahoma,58,Away,Oklahoma State,23,,5,9,W
+13,Nov 28 2015,3:30 PM,Sat,Rice,27,Home,Charlotte,7,,,,L
+13,Nov 28 2015,10:45 PM,Sat,San Diego State,31,Home,Nevada,14,,,,W
+13,Nov 28 2015,3:30 PM,Sat,Southern California,40,Home,UCLA,21,,,22,W
+13,Nov 28 2015,12:00 PM,Sat,Southern Mississippi,58,Away,Louisiana Tech,24,,,,W
+13,Nov 28 2015,7:30 PM,Sat,Stanford,38,Home,Notre Dame,36,,13,4,W
+13,Nov 28 2015,12:30 PM,Sat,Syracuse,20,Home,Boston College,17,,,,W
+13,Nov 28 2015,7:00 PM,Sat,Temple,27,Home,Connecticut,3,,25,,L
+13,Nov 28 2015,4:00 PM,Sat,Tennessee,53,Home,Vanderbilt,28,,,,W
+13,Nov 28 2015,3:30 PM,Sat,Texas-El Paso,20,Away,North Texas,17,,,,W
+13,Nov 28 2015,2:30 PM,Sat,Utah,20,Home,Colorado,14,,,,W
+13,Nov 28 2015,12:00 PM,Sat,Virginia Tech,23,Away,Virginia,20,,,,W
+13,Nov 28 2015,12:00 PM,Sat,West Virginia,30,Home,Iowa State,6,,,,L
+13,Nov 28 2015,3:30 PM,Sat,Wisconsin,31,Away,Minnesota,21,,,,W
+13,Nov 28 2015,2:00 PM,Sat,Wyoming,35,Home,Nevada-Las Vegas,28,,,,W
+14,Dec 4 2015,8:00 PM,Fri,Bowling Green State,34,Home,Northern Illinois,14,,,,W
+14,Dec 5 2015,4:00 PM,Sat,Alabama,29,Home,Florida,15,,2,18,W
+14,Dec 5 2015,7:30 PM,Sat,Appalachian State,34,Away,South Alabama,27,,,,W
+14,Dec 5 2015,3:00 PM,Sat,Arkansas State,55,Home,Texas State,17,,,,W
+14,Dec 5 2015,8:00 PM,Sat,Clemson,45,Home,North Carolina,37,,1,8,W
+14,Dec 5 2015,2:00 PM,Sat,Georgia State,34,Away,Georgia Southern,7,,,,L
+14,Dec 5 2015,12:00 PM,Sat,Houston,24,Home,Temple,13,,17,20,W
+14,Dec 5 2015,4:30 PM,Sat,Kansas State,24,Home,West Virginia,23,,,,W
+14,Dec 5 2015,3:00 PM,Sat,Louisiana-Monroe,42,Home,New Mexico State,35,,,,W
+14,Dec 5 2015,8:00 PM,Sat,Michigan State,16,Home,Iowa,13,,5,4,W
+14,Dec 5 2015,7:30 PM,Sat,San Diego State,27,Home,Air Force,24,,,,W
+14,Dec 5 2015,7:45 PM,Sat,Stanford,41,Home,Southern California,22,,7,24,W
+14,Dec 5 2015,12:00 PM,Sat,Texas,23,Away,Baylor,17,,,12,W
+14,Dec 5 2015,5:00 PM,Sat,Troy,41,Away,Louisiana-Lafayette,17,,,,W
+14,Dec 5 2015,12:00 PM,Sat,Western Kentucky,45,Home,Southern Mississippi,28,,,,W
+15,Dec 12 2015,3:00 PM,Sat,Navy,21,Home,Army,17,,21,,W
+16,Dec 19 2015,5:30 PM,Sat,Appalachian State,31,Home,Ohio,29,,,,W
+16,Dec 19 2015,2:00 PM,Sat,Arizona,45,Home,New Mexico,37,,,,W
+16,Dec 19 2015,9:00 PM,Sat,Louisiana Tech,47,Home,Arkansas State,28,,,,W
+16,Dec 19 2015,7:00 PM,Sat,San Jose State,27,Home,Georgia State,16,,,,W
+16,Dec 19 2015,3:30 PM,Sat,Utah,35,Home,Brigham Young,28,,20,,W
+16,Dec 21 2015,2:30 PM,Mon,Western Kentucky,45,Home,South Florida,35,,25,,W
+17,Dec 22 2015,3:30 PM,Tue,Akron,23,Home,Utah State,21,,,,W
+17,Dec 22 2015,7:00 PM,Tue,Toledo,32,Home,Temple,17,,,24,W
+17,Dec 23 2015,4:30 PM,Wed,Boise State,55,Home,Northern Illinois,7,,,,L
+17,Dec 23 2015,8:00 PM,Wed,Georgia Southern,58,Home,Bowling Green State,27,,,,W
+17,Dec 24 2015,8:00 PM,Thu,San Diego State,42,Home,Cincinnati,7,,,,L
+17,Dec 24 2015,12:00 PM,Thu,Western Michigan,45,Home,Middle Tennessee State,31,,,,W
+17,Dec 26 2015,3:30 PM,Sat,Duke,44,Home,Indiana,41,,,,W
+17,Dec 26 2015,11:00 AM,Sat,Marshall,16,Home,Connecticut,10,,,,W
+17,Dec 26 2015,9:15 PM,Sat,Nebraska,37,Home,UCLA,29,,,,W
+17,Dec 26 2015,5:45 PM,Sat,Virginia Tech,55,Home,Tulsa,52,,,,W
+17,Dec 26 2015,2:20 PM,Sat,Washington,44,Home,Southern Mississippi,31,,,,W
+17,Dec 26 2015,2:00 PM,Sat,Washington State,20,Home,Miami (FL),14,,,,W
+17,Dec 28 2015,5:00 PM,Mon,Minnesota,21,Home,Central Michigan,14,,,,W
+17,Dec 28 2015,2:30 PM,Mon,Navy,44,Home,Pittsburgh,28,,21,,W
+18,Dec 29 2015,5:30 PM,Tue,Baylor,49,Home,North Carolina,38,,18,10,W
+18,Dec 29 2015,2:00 PM,Tue,California,55,Home,Air Force,36,,,,W
+18,Dec 29 2015,9:00 PM,Tue,Louisiana State,56,Home,Texas Tech,27,,22,,W
+18,Dec 29 2015,7:30 PM,Tue,Nevada,28,Home,Colorado State,23,,,,W
+18,Dec 30 2015,12:00 PM,Wed,Auburn,31,Home,Memphis,10,,,,W
+18,Dec 30 2015,7:00 PM,Wed,Louisville,27,Home,Texas A&amp;M,21,,,,W
+18,Dec 30 2015,3:30 PM,Wed,Mississippi State,51,Home,North Carolina State,28,,,,W
+18,Dec 30 2015,10:30 PM,Wed,Wisconsin,23,Home,Southern California,21,,23,,W
+18,Dec 31 2015,8:00 PM,Thu,Alabama,38,Home,Michigan State,0,,2,3,W
+18,Dec 31 2015,4:00 PM,Thu,Clemson,37,Home,Oklahoma,17,,1,4,W
+18,Dec 31 2015,12:00 PM,Thu,Houston,38,Home,Florida State,24,,14,9,W
+18,Jan 1 2016,1:00 PM,Fri,Michigan,41,Home,Florida,7,,17,19,L
+18,Jan 1 2016,8:30 PM,Fri,Mississippi,48,Home,Oklahoma State,20,,16,13,W
+18,Jan 1 2016,1:00 PM,Fri,Ohio State,44,Home,Notre Dame,28,,7,8,W
+18,Jan 1 2016,5:00 PM,Fri,Stanford,45,Home,Iowa,16,,5,6,W
+18,Jan 1 2016,12:00 PM,Fri,Tennessee,45,Home,Northwestern,6,,,12,L
+18,Jan 2 2016,3:20 PM,Sat,Arkansas,45,Home,Kansas State,23,,,,W
+18,Jan 2 2016,12:00 PM,Sat,Georgia,24,Home,Penn State,17,,,,W
+18,Jan 2 2016,6:45 PM,Sat,Texas Christian,47,Home,Oregon,41,,11,15,W
+18,Jan 2 2016,10:15 PM,Sat,West Virginia,43,Home,Arizona State,42,,,,W
+19,Jan 11 2016,8:30 PM,Mon,Alabama,45,Home,Clemson,40,,2,1,W
