@@ -1,0 +1,14 @@
+# Think of this as a sample configuration file. Before you can parse
+# the file, you have to remove blank lines and comment lines. A
+# comment line is any line with a "#" as its first non-blank/non-tab
+# character. Blank lines are lines with no content or just white space
+# content.
+
+You'll end up keeping this line.
+
+You will keep this one, too, but not the one before it.
+
+# This is a comment.
+            # So is this.
+
+END
